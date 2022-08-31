@@ -1,0 +1,2001 @@
+﻿name,age,arriveTime,chestpain,shortnessofbreath,fever,trauma,nausea,abdominalpain,headache,dizziness,cough,weakness,syncope,diarrhea,painfulurination,mentalstatus,tachypnea,hypertension,pain,frequenturination,diagnosis
+Elsie Hatfield,25,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Amy Hardin,18,NA,0,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0,0,1,High Blood Sugar
+Ruth Jacobs,22,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Alessandro Gray,67,NA,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,0,CHF
+Caylee Krueger,58,NA,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,0,CHF
+Kayleigh Hatfield,44,NA,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,1,0,0,broken bone
+Stanley Rios,77,NA,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Samson Gutierrez,58,NA,1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,hypertensive crisis
+Kennedy Gonzalez,65,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Joseph Villegas,21,NA,0,0,1,0,1,0,1,1,0,1,0,0,1,0,0,1,0,1,High Blood Sugar
+Beckett Trevino,41,NA,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,CHF
+Amanda Delacruz,28,NA,1,1,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,hypertensive crisis
+Tiffany Lindsey,78,NA,0,0,1,0,1,0,1,1,0,1,0,1,0,0,0,0,1,1,High Blood Sugar
+Naima Hampton,53,NA,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,broken bone
+Kaylin Solomon,30,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Omar Romero,36,NA,1,1,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Madelyn Macdonald,26,NA,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,broken bone
+Trinity Pope,71,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Ramiro Parks,27,NA,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,hypertensive crisis
+Reese Greene,76,NA,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,hypertensive crisis
+Piper Turner,70,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Tori Bruce,24,NA,0,0,0,0,1,0,1,1,1,1,0,0,0,1,1,0,0,1,High Blood Sugar
+Drake Cummings,15,NA,0,1,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Kenny Shaffer,20,NA,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,hypertensive crisis
+Alvaro Farrell,24,NA,0,1,0,0,1,0,0,1,1,1,0,0,0,1,1,0,0,0,Respiratory Infection
+Simeon Johns,37,NA,0,0,1,0,1,0,1,1,0,1,0,0,1,0,1,0,0,1,High Blood Sugar
+Eduardo Alvarez,73,NA,0,0,0,0,1,0,1,1,1,1,0,0,0,1,1,0,0,1,High Blood Sugar
+Javon Graves,13,NA,1,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,hypertensive crisis
+Troy Ford,55,NA,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Audrey Khan,56,NA,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Jovanni Hoffman,43,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Walker Spencer,29,NA,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,broken bone
+Glenn Lawrence,14,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Zayne Quinn,27,NA,1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,hypertensive crisis
+Julianne Hill,25,NA,0,1,0,0,1,0,1,1,1,0,0,0,0,1,1,0,0,0,Respiratory Infection
+Jovany Brandt,47,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Nathanial Henson,64,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Ashly Garrett,71,NA,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,broken bone
+Zachery Bentley,67,NA,0,0,1,0,1,0,1,1,1,1,0,1,0,0,0,0,0,1,High Blood Sugar
+Abbigail Wolf,60,NA,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,UTI
+Gilberto Coleman,75,NA,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Sanaa Hendricks,42,NA,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0,CHF
+Jacqueline Key,79,NA,1,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,CHF
+Jamari Barber,73,NA,1,1,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,hypertensive crisis
+Devan Marks,62,NA,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,broken bone
+Jayvion Lee,62,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Yoselin Tucker,55,NA,0,1,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,Respiratory Infection
+Lawrence Oconnell,31,NA,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,CHF
+Dario Mcclure,36,NA,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,1,CHF
+Enrique Shah,60,NA,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,Respiratory Infection
+Mya Sosa,50,NA,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,broken bone
+Alfred Patel,79,NA,0,0,0,1,1,0,1,1,0,1,0,0,0,0,1,1,0,1,High Blood Sugar
+Evangeline Irwin,54,NA,1,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,hypertensive crisis
+Marie Brandt,14,NA,1,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,Respiratory Infection
+Kylan Gibson,43,NA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,broken bone
+Londyn Zhang,44,NA,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,broken bone
+Jaylen Galloway,48,NA,1,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,hypertensive crisis
+Wilson Hudson,35,NA,0,1,0,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,Respiratory Infection
+Grant Higgins,78,NA,0,0,0,0,1,0,1,1,0,1,0,1,0,0,1,0,1,1,High Blood Sugar
+Jude Pugh,32,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Angelo Cardenas,16,NA,0,1,0,0,1,0,1,1,0,1,1,0,0,0,1,0,0,1,High Blood Sugar
+Dixie Logan,49,NA,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,broken bone
+Sophia Burnett,23,NA,1,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Emely Kane,10,NA,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,1,1,UTI
+Ahmad Terrell,46,NA,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Jolie Strong,34,NA,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,1,UTI
+Helena Spencer,59,NA,0,1,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Carl Massey,26,NA,0,1,1,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,Respiratory Infection
+Gia Gaines,18,NA,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,broken bone
+Gavyn Schroeder,30,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Braylon Huerta,45,NA,0,1,0,0,1,0,1,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Karley Mccall,33,NA,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,CHF
+Melody Dunn,10,NA,0,1,0,0,0,1,0,1,1,1,0,0,0,0,1,1,0,0,Respiratory Infection
+Mariam Crawford,14,NA,0,0,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,1,High Blood Sugar
+Trey French,76,NA,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,broken bone
+Sienna Torres,71,NA,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,1,0,CHF
+Melanie Terrell,37,NA,0,0,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,UTI
+Ty Pugh,46,NA,0,1,0,0,1,0,0,1,1,0,1,0,1,0,1,0,0,0,Respiratory Infection
+Chase Mccoy,17,NA,1,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Damion Gallagher,33,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Kaden Dorsey,45,NA,0,1,1,0,1,0,0,1,1,0,0,1,0,0,1,0,0,0,Respiratory Infection
+Vivian Walls,80,NA,0,1,1,0,0,0,0,1,1,1,0,0,0,0,1,0,1,0,Respiratory Infection
+Tyson Andrade,60,NA,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,CHF
+Briley Burch,17,NA,1,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,hypertensive crisis
+Kadence Raymond,32,NA,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,hypertensive crisis
+Ariana Perry,28,NA,1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Markus Horn,66,NA,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,1,0,1,High Blood Sugar
+Mariyah Knapp,43,NA,0,1,0,0,0,0,1,1,1,0,0,0,1,0,1,1,0,0,Respiratory Infection
+Nayeli Henson,56,NA,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,broken bone
+Nico Mcpherson,12,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Jacey Mata,63,NA,0,0,0,0,1,0,1,1,0,1,1,1,0,0,1,0,0,1,High Blood Sugar
+Alena Meyers,11,NA,1,1,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Harper Perry,37,NA,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0,1,1,High Blood Sugar
+Tomas Merritt,52,NA,0,1,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,1,Respiratory Infection
+Max Walter,72,NA,0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,1,UTI
+Myah Duke,57,NA,1,0,0,0,1,0,1,1,0,1,0,0,1,0,1,0,0,1,High Blood Sugar
+Hailey Bernard,36,NA,0,0,0,0,1,0,1,1,0,1,0,0,1,1,0,1,0,1,High Blood Sugar
+Aldo Norman,28,NA,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,hypertensive crisis
+Noemi Barajas,53,NA,0,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,1,UTI
+Phoebe Miranda,49,NA,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,broken bone
+Mya Delgado,25,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Yadiel Massey,77,NA,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1,CHF
+Kelsie Clark,23,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Carlo Barrett,15,NA,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,High Blood Sugar
+Ellen Peck,55,NA,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Hazel Hester,62,NA,0,1,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,1,Respiratory Infection
+Lillianna Galloway,55,NA,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,UTI
+Chris Melton,43,NA,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,broken bone
+Serena Watkins,73,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Nick Reyes,41,NA,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,broken bone
+Eliezer Jacobs,56,NA,1,0,0,0,1,0,1,1,0,1,0,0,0,1,1,0,0,1,High Blood Sugar
+Eddie Michael,73,NA,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,UTI
+Chasity Conner,54,NA,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,hypertensive crisis
+Salvador Gonzales,13,NA,1,1,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,hypertensive crisis
+Jessica Powell,71,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Braden Blake,21,NA,0,0,0,0,1,1,1,1,0,1,0,1,0,1,0,0,0,1,High Blood Sugar
+Amaya Farley,55,NA,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,1,UTI
+Angel Allison,16,NA,0,0,1,1,1,0,1,1,0,1,0,0,0,0,1,0,0,1,High Blood Sugar
+Pamela Bishop,55,NA,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,UTI
+Ciara Gray,21,NA,0,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,1,High Blood Sugar
+Lucille Gomez,61,NA,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,CHF
+Sariah Whitney,63,NA,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,1,CHF
+Aliana Stanton,66,NA,1,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,hypertensive crisis
+Madelyn Romero,63,NA,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,broken bone
+Skye Reynolds,21,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Paisley Waters,68,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Tatum Morales,63,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Jayleen Cantu,20,NA,1,1,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,Respiratory Infection
+Celia Frank,70,NA,0,0,0,0,1,0,1,1,0,1,1,0,1,0,0,0,1,1,High Blood Sugar
+Garrett Welch,37,NA,0,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,1,High Blood Sugar
+Fisher Villanueva,73,NA,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,1,0,0,broken bone
+Courtney Young,77,NA,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,CHF
+Darren Dickson,36,NA,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,CHF
+Elizabeth Perkins,18,NA,0,1,0,0,0,1,0,1,1,0,0,0,0,1,1,0,1,0,Respiratory Infection
+Ross Payne,32,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Nia Hardin,19,NA,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,hypertensive crisis
+Lewis Manning,46,NA,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,High Blood Sugar
+Howard Hunter,28,NA,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,broken bone
+Grady Mosley,39,NA,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,broken bone
+Samuel Russo,14,NA,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,1,0,broken bone
+Greta Donovan,11,NA,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,broken bone
+Scott Franklin,21,NA,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,broken bone
+Micheal Chung,26,NA,0,0,1,0,1,0,1,1,0,1,1,1,0,0,0,0,0,1,High Blood Sugar
+Annie Aguirre,35,NA,0,1,0,0,1,0,1,1,0,1,0,1,0,0,1,0,0,1,High Blood Sugar
+Celia Landry,19,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Gavin Fry,63,NA,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,broken bone
+Osvaldo Adkins,73,NA,0,0,1,0,1,0,1,1,0,1,1,0,0,0,0,1,0,1,High Blood Sugar
+Gaven Morton,25,NA,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0,1,1,Respiratory Infection
+Desirae Cardenas,50,NA,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0,broken bone
+Jovani Ramos,41,NA,0,1,0,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,Respiratory Infection
+Bria Massey,35,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,UTI
+Skye Chambers,51,NA,1,1,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,Respiratory Infection
+Jenny Hinton,44,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Courtney Thompson,46,NA,0,1,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,Respiratory Infection
+Hezekiah Cortez,17,NA,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,broken bone
+Sylvia Beck,11,NA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,broken bone
+Chris Copeland,31,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Miles Sanford,67,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Karlie Hoover,48,NA,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,broken bone
+Alvaro Hahn,38,NA,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,UTI
+Bryan Yates,18,NA,0,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1,UTI
+Dakota Fleming,60,NA,0,0,1,0,1,0,1,1,1,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Fiona Lewis,39,NA,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,CHF
+Trent Leon,68,NA,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,CHF
+Bernard Nash,45,NA,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,1,1,UTI
+Harley Mccullough,76,NA,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,hypertensive crisis
+Miguel Morse,70,NA,0,1,0,0,0,1,0,1,1,0,0,0,1,0,1,0,0,1,Respiratory Infection
+Colt Henry,70,NA,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,CHF
+Savanah Douglas,32,NA,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Anabella Nguyen,59,NA,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,UTI
+Hassan Gay,68,NA,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,broken bone
+John Velazquez,46,NA,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,1,0,CHF
+Alexis Chandler,18,NA,1,0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0,0,CHF
+Kaylah Mullen,21,NA,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,hypertensive crisis
+Davis Walker,42,NA,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Kolten Vance,11,NA,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Keyon Davies,66,NA,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,UTI
+Irvin Manning,76,NA,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,Respiratory Infection
+Kayleigh Lester,15,NA,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,CHF
+Remington Bradford,59,NA,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,broken bone
+Kasen Berry,54,NA,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,CHF
+Penelope Hoover,74,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Kathryn Hines,12,NA,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,1,1,UTI
+Stephen Pacheco,80,NA,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Hunter Braun,53,NA,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,1,0,0,CHF
+Khloe Livingston,53,NA,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1,0,0,1,UTI
+Angelo Oneill,28,NA,0,1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Bridget Melton,25,NA,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,1,UTI
+Patricia Vang,35,NA,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,broken bone
+Adelyn Pace,19,NA,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,hypertensive crisis
+Jairo Rodgers,72,NA,0,0,0,0,1,0,1,1,0,1,0,1,0,0,1,1,0,1,High Blood Sugar
+Kenyon Reeves,12,NA,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,1,0,CHF
+Angie Hansen,15,NA,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,CHF
+Kenny Gilbert,19,NA,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,broken bone
+Camren Bentley,64,NA,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,0,0,CHF
+Kyle Navarro,53,NA,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,Respiratory Infection
+Heidy Rogers,65,NA,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,CHF
+Sarahi Henry,40,NA,1,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,hypertensive crisis
+Corinne Carter,27,NA,0,1,1,0,1,0,0,1,1,0,0,0,1,0,1,0,0,0,Respiratory Infection
+Noelle Nolan,38,NA,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,UTI
+Edith Curtis,79,NA,0,1,0,0,0,0,0,1,1,0,0,1,1,0,1,0,0,1,Respiratory Infection
+Leilani Harvey,70,NA,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,broken bone
+Francisco Cannon,64,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Tristan Perez,16,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Gia Cardenas,52,NA,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,1,0,CHF
+Nehemiah Ortiz,62,NA,0,1,0,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,Respiratory Infection
+Tony Newman,46,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Mariela Murillo,29,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Layton Reeves,48,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Bianca Monroe,29,NA,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Chance Robinson,19,NA,0,0,0,0,1,1,1,1,0,1,1,0,0,0,1,0,0,1,High Blood Sugar
+Kaylah Stokes,36,NA,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,1,UTI
+Darrell Hammond,75,NA,1,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,CHF
+Darien Hanna,52,NA,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,1,CHF
+Avah Harrison,47,NA,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,broken bone
+Stella James,12,NA,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,hypertensive crisis
+Easton Hobbs,16,NA,1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,CHF
+Clara Walls,18,NA,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,CHF
+Jessie Levy,21,NA,1,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Darius Horton,43,NA,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,CHF
+Xzavier Paul,80,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Khalil Blanchard,40,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Carissa Pugh,14,NA,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,High Blood Sugar
+Miles Bishop,69,NA,1,0,0,0,1,1,1,1,0,1,0,0,1,0,0,0,0,1,High Blood Sugar
+Brenda Moses,71,NA,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1,0,0,broken bone
+Daphne Valenzuela,31,NA,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,CHF
+Zackery Bray,68,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,UTI
+Declan Hubbard,71,NA,0,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,UTI
+Tabitha Adams,25,NA,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,0,1,UTI
+Derrick Mcclure,45,NA,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,CHF
+Rylie Ponce,48,NA,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,hypertensive crisis
+John Schneider,30,NA,1,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,hypertensive crisis
+Jaida Kemp,48,NA,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,broken bone
+Kendall Ferguson,11,NA,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,broken bone
+Leland Ortega,33,NA,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,hypertensive crisis
+Adalynn Davis,69,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Esmeralda Mann,26,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Austin Delgado,57,NA,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,0,0,1,UTI
+Lizbeth Adams,70,NA,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,1,0,0,broken bone
+Anthony Castaneda,19,NA,0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,Respiratory Infection
+Marlie Moss,22,NA,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,UTI
+Julie Chapman,69,NA,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,CHF
+Kimberly Mora,75,NA,0,0,0,0,1,0,1,1,0,1,0,0,0,1,1,1,0,1,High Blood Sugar
+Asa Hoffman,44,NA,0,1,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,Respiratory Infection
+Lukas Rivas,78,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Keegan Ray,16,NA,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,hypertensive crisis
+Kamora Crawford,30,NA,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,1,Respiratory Infection
+Anastasia Meyers,76,NA,0,1,0,1,1,0,0,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Emery Mccarthy,35,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Akira Clarke,39,NA,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,CHF
+Veronica Krause,52,NA,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,0,1,UTI
+Ari Beasley,15,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Wilson Lynch,45,NA,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,CHF
+Emmanuel Bernard,62,NA,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,UTI
+Brooke Hooper,21,NA,0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,1,UTI
+Melanie Waller,45,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Alyvia Ross,41,NA,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,1,0,0,broken bone
+Leilani Morton,38,NA,0,1,0,1,0,0,1,1,1,0,0,1,0,0,1,0,0,0,Respiratory Infection
+Kaylie Mcclure,63,NA,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,broken bone
+Adan Liu,39,NA,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1,CHF
+Dale Moody,16,NA,1,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Yaretzi Holloway,56,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Ada Hoover,72,NA,1,0,1,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,CHF
+Kayleigh Vance,30,NA,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0,0,0,1,High Blood Sugar
+Scarlett Stewart,63,NA,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,broken bone
+Kinley Duncan,23,NA,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,broken bone
+Lamont Macdonald,45,NA,1,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,hypertensive crisis
+Tess Hood,30,NA,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,broken bone
+Leia Lane,13,NA,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,broken bone
+Trevon Mcfarland,59,NA,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,broken bone
+Kenzie Craig,39,NA,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,broken bone
+Jordyn Bernard,56,NA,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,1,UTI
+Cameron Harris,79,NA,0,1,0,0,1,0,1,1,0,1,0,1,0,1,0,0,0,1,High Blood Sugar
+Reese Faulkner,50,NA,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,broken bone
+Roy Flores,16,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Grant Cohen,52,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,broken bone
+Antoine Alvarado,59,NA,0,0,1,0,0,1,0,0,0,1,0,0,0,1,1,0,0,1,UTI
+Isla Noble,10,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Desiree Shea,40,NA,0,1,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,Respiratory Infection
+Claire Houston,48,NA,0,1,0,1,1,0,1,1,0,1,0,0,0,0,1,0,0,1,High Blood Sugar
+Deja Sampson,10,NA,1,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,1,UTI
+Cecilia Torres,21,NA,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1,0,0,broken bone
+Tristan Kirby,14,NA,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,broken bone
+Karen Mcintyre,41,NA,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,High Blood Sugar
+Giana Boone,18,NA,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,broken bone
+Jaiden Mccormick,79,NA,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,broken bone
+Essence Dyer,50,NA,0,0,0,1,1,1,1,1,0,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Kayley Merritt,40,NA,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,CHF
+Dominique Sharp,31,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Alana Sullivan,71,NA,1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Bentley Kirby,53,NA,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,1,UTI
+Macey Cannon,22,NA,1,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,hypertensive crisis
+Tiffany Page,54,NA,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,broken bone
+Nicholas Barton,10,NA,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0,1,1,High Blood Sugar
+Brittany Townsend,13,NA,1,1,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,Respiratory Infection
+Marilyn Beard,13,NA,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,CHF
+London Blair,65,NA,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,0,0,1,UTI
+Zoie Floyd,34,NA,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,broken bone
+Dorian Harrington,41,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Harmony Huynh,42,NA,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,Respiratory Infection
+Blake Summers,23,NA,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,CHF
+Zaire Washington,28,NA,0,1,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,Respiratory Infection
+Rylan Baird,49,NA,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,broken bone
+Mayra Bartlett,31,NA,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,1,UTI
+Carla Benson,20,NA,0,0,0,0,1,0,1,1,0,1,1,0,0,0,1,1,0,1,High Blood Sugar
+Abel Nunez,73,NA,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,hypertensive crisis
+Mohammed Sandoval,45,NA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,broken bone
+Kaylynn Oliver,38,NA,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,hypertensive crisis
+Ciara Woodward,23,NA,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,hypertensive crisis
+Shaniya Mcknight,41,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,1,0,1,0,1,High Blood Sugar
+Gianna Woodward,10,NA,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,1,UTI
+Tony Chapman,80,NA,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,broken bone
+Marlene Murphy,49,NA,1,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,hypertensive crisis
+Alexander Stevens,29,NA,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,broken bone
+Gillian Baird,44,NA,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,CHF
+Makhi Morales,55,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Anaya Chavez,65,NA,0,1,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Gabriella Oconnor,32,NA,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,hypertensive crisis
+German Shaw,72,NA,1,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Alejandra Mcneil,58,NA,1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Cortez Schneider,16,NA,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,CHF
+Rene Shannon,17,NA,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,hypertensive crisis
+Mathew Maynard,55,NA,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,CHF
+Andre Gibson,48,NA,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,CHF
+Cameron Williamson,11,NA,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,CHF
+Isaias Trevino,64,NA,0,1,0,0,1,1,1,1,0,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Journey Mahoney,69,NA,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1,1,UTI
+Lucia Leonard,37,NA,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Josue Savage,23,NA,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,broken bone
+Jazlene Walton,70,NA,0,1,1,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Raphael Forbes,15,NA,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,broken bone
+Jasmine Coffey,44,NA,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,1,CHF
+Harper Clayton,24,NA,1,1,0,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Saige Hoffman,16,NA,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,UTI
+Raven Hurst,63,NA,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,hypertensive crisis
+Macy Olsen,70,NA,0,0,0,0,1,0,1,1,0,1,0,0,0,1,1,1,0,1,High Blood Sugar
+Julianne Rollins,36,NA,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,hypertensive crisis
+Trevin Sandoval,69,NA,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,broken bone
+Cristal Shepard,17,NA,0,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,Respiratory Infection
+Brendan Maddox,63,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Beau Odonnell,30,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,1,1,1,High Blood Sugar
+Julio Murray,26,NA,1,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,Respiratory Infection
+Adam Whitaker,57,NA,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,High Blood Sugar
+Miah Butler,12,NA,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,1,UTI
+Ana Vasquez,37,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,CHF
+Yair Goodman,66,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Maurice Li,16,NA,0,1,0,0,0,0,0,1,1,1,0,1,1,0,1,0,0,0,Respiratory Infection
+Renee Austin,62,NA,1,1,1,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,Respiratory Infection
+Prince Hart,69,NA,1,1,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,hypertensive crisis
+Christian Hicks,52,NA,0,1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,Respiratory Infection
+Kira Fry,52,NA,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,broken bone
+Delaney Mcmahon,24,NA,1,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,Respiratory Infection
+Braedon Graves,58,NA,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,broken bone
+Aidan Archer,28,NA,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,CHF
+Katelynn French,27,NA,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,hypertensive crisis
+Uriel Wu,76,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,CHF
+Jamiya Cobb,25,NA,1,0,0,0,1,1,1,1,0,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Damion Monroe,67,NA,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,broken bone
+Thaddeus Gregory,47,NA,0,1,0,0,0,0,0,1,1,1,0,0,0,1,1,1,0,0,Respiratory Infection
+Finnegan Flynn,19,NA,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,broken bone
+Gaige Osborne,39,NA,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,UTI
+Giuliana Vincent,26,NA,0,0,0,0,1,0,1,1,0,1,0,0,0,1,1,1,0,1,High Blood Sugar
+Danika Glenn,15,NA,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,broken bone
+Sabrina Black,74,NA,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1,1,1,High Blood Sugar
+Joyce Ward,38,NA,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,Respiratory Infection
+Kamari Cox,25,NA,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,broken bone
+Kadyn Frederick,50,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Shirley Rogers,65,NA,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,0,0,CHF
+Bradyn Mcneil,78,NA,1,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,CHF
+Kimora Gaines,66,NA,0,1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,0,0,Respiratory Infection
+Katrina Flowers,70,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,UTI
+Averie Banks,60,NA,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,1,1,High Blood Sugar
+Zaire Mckay,69,NA,1,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,UTI
+Alfred Preston,64,NA,0,0,0,0,1,0,1,1,0,1,1,1,0,0,0,1,0,1,High Blood Sugar
+Enzo Romero,69,NA,0,1,0,0,1,0,1,1,0,1,0,1,0,0,1,0,0,1,High Blood Sugar
+Roger Daniels,60,NA,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,1,1,High Blood Sugar
+Joseph Sloan,62,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,hypertensive crisis
+Sergio Hanna,78,NA,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,CHF
+Francesca Horne,75,NA,0,1,0,0,1,0,1,1,0,1,0,0,1,0,0,1,0,1,High Blood Sugar
+Jenny Daniels,80,NA,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,1,0,CHF
+Renee Flowers,73,NA,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,1,UTI
+Jaydan Lam,73,NA,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,CHF
+Brycen Cortez,20,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Douglas Harding,62,NA,1,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,Respiratory Infection
+Roland Arroyo,60,NA,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,broken bone
+Cristal Roberts,79,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Sarai Carlson,69,NA,0,1,0,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,Respiratory Infection
+Jesse Wang,44,NA,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,broken bone
+Darrell Lawrence,66,NA,0,1,0,0,0,1,0,1,1,0,0,1,1,0,1,0,0,0,Respiratory Infection
+Caroline Salazar,43,NA,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,CHF
+Gregory Nguyen,37,NA,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,1,1,UTI
+Arianna Simmons,41,NA,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,broken bone
+Pamela Bryan,58,NA,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,broken bone
+Paul Zimmerman,36,NA,0,1,0,1,1,0,0,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Colby Jensen,75,NA,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,1,UTI
+Nina Briggs,38,NA,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,1,0,0,broken bone
+Jaidyn Graves,26,NA,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,broken bone
+Jessie Saunders,24,NA,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,CHF
+Saul Gibbs,65,NA,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,1,0,broken bone
+Deacon Arias,53,NA,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,High Blood Sugar
+Rhianna Howe,26,NA,1,1,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,hypertensive crisis
+Mohammad Dean,49,NA,0,0,1,0,1,0,1,1,0,1,1,0,0,0,0,1,0,1,High Blood Sugar
+Kyson Lamb,63,NA,0,1,0,0,1,0,0,1,1,1,0,0,0,1,1,0,0,0,Respiratory Infection
+Mollie Moran,39,NA,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,broken bone
+Carleigh Walker,22,NA,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,broken bone
+Justin Rasmussen,22,NA,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,CHF
+Nicole Molina,48,NA,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,CHF
+Meredith Rowland,44,NA,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,hypertensive crisis
+Nick Singleton,60,NA,1,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,hypertensive crisis
+Dahlia Mckay,22,NA,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,CHF
+Justice Lawson,47,NA,1,0,0,0,1,0,0,0,1,1,0,0,1,0,0,1,0,0,CHF
+Hunter Walton,59,NA,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,broken bone
+Yasmine Baldwin,55,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Deegan Pratt,26,NA,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,hypertensive crisis
+Mattie Fisher,47,NA,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,broken bone
+Semaj Henry,18,NA,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,CHF
+Giada Wilson,39,NA,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,0,CHF
+Rodrigo Flowers,41,NA,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,CHF
+Konner Pacheco,39,NA,0,0,1,0,1,0,1,1,0,1,0,1,1,0,0,0,0,1,High Blood Sugar
+Marcos Pratt,61,NA,0,1,0,1,1,0,1,1,0,1,0,1,0,0,0,0,0,1,High Blood Sugar
+Marisol Good,50,NA,1,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,Respiratory Infection
+Laila Andrews,17,NA,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,hypertensive crisis
+Diya Holden,25,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Joselyn Hoffman,79,NA,1,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,hypertensive crisis
+Evie Conrad,72,NA,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,1,UTI
+Cecilia Baird,28,NA,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,broken bone
+Jordan York,39,NA,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,hypertensive crisis
+Shirley Alvarez,17,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Giancarlo Pittman,40,NA,0,1,0,0,1,0,1,1,0,1,0,1,0,0,0,0,1,1,High Blood Sugar
+Cecelia Stafford,68,NA,0,1,0,0,0,1,0,1,1,0,0,0,1,0,1,0,1,0,Respiratory Infection
+Weston Koch,22,NA,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,UTI
+Londyn Hutchinson,30,NA,1,1,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,hypertensive crisis
+Bianca Paul,35,NA,1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Kailee Webster,48,NA,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,1,0,1,UTI
+Alana Dudley,25,NA,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,UTI
+Meghan Barber,13,NA,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,broken bone
+Jade Hancock,56,NA,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,UTI
+Lailah Kirk,21,NA,0,1,1,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Anabel Neal,44,NA,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,1,UTI
+Saniyah Sosa,68,NA,0,1,0,0,0,0,0,1,1,0,0,1,0,1,1,1,0,0,Respiratory Infection
+Giovanny Baker,34,NA,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,hypertensive crisis
+Laila Beck,72,NA,0,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Avery Colon,41,NA,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0,0,1,1,High Blood Sugar
+Liana Velasquez,60,NA,1,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Aliza Clayton,29,NA,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,broken bone
+Joy Duffy,57,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Belinda Bean,61,NA,0,0,0,0,1,0,1,1,0,1,1,1,0,0,1,0,0,1,High Blood Sugar
+Yoselin Mcconnell,65,NA,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,hypertensive crisis
+Jordan Hardin,29,NA,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,1,1,UTI
+Jerome Estrada,54,NA,0,0,0,1,1,0,1,1,0,1,1,1,0,0,0,0,0,1,High Blood Sugar
+Marlon Wong,17,NA,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,UTI
+Kaitlin Ray,76,NA,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,hypertensive crisis
+Maggie Rangel,26,NA,0,1,0,0,0,1,0,1,1,0,1,0,0,1,1,0,0,0,Respiratory Infection
+Chase Welch,79,NA,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,broken bone
+Jakobe Barrera,46,NA,0,0,0,0,1,0,0,1,0,1,0,0,0,1,1,0,0,1,UTI
+Claudia Nash,17,NA,0,1,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,1,High Blood Sugar
+Barbara Le,29,NA,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,broken bone
+Deangelo Mosley,13,NA,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1,1,UTI
+Stacy Lutz,68,NA,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,broken bone
+Tate Monroe,61,NA,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,broken bone
+Danika Andrade,37,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Rosa Woodward,16,NA,1,0,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,CHF
+Nolan Anthony,72,NA,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,UTI
+Ariella Lamb,74,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Sanaa Davila,65,NA,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,1,CHF
+Alisha Warren,71,NA,0,0,0,0,1,0,1,1,0,1,1,0,1,0,1,0,0,1,High Blood Sugar
+Arianna Ho,65,NA,1,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,hypertensive crisis
+Quentin Lloyd,38,NA,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,UTI
+Vicente Sawyer,49,NA,1,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,hypertensive crisis
+Stella Wiggins,68,NA,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,1,UTI
+Tanner Watson,19,NA,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,1,UTI
+Maximo Bolton,45,NA,1,0,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,CHF
+Lila Holden,70,NA,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,1,High Blood Sugar
+Brice Holland,50,NA,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,CHF
+Lisa Leblanc,72,NA,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,1,broken bone
+Rubi Adams,54,NA,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,hypertensive crisis
+Danielle Ferrell,12,NA,0,0,0,0,0,0,1,0,1,0,0,1,0,1,1,0,0,1,UTI
+Broderick Horn,18,NA,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,0,0,1,UTI
+Jaylynn Anderson,63,NA,0,0,0,0,1,0,1,1,1,1,1,0,0,1,0,0,0,1,High Blood Sugar
+Rory Pennington,36,NA,0,1,0,0,1,0,0,1,1,0,1,0,0,0,1,1,0,0,Respiratory Infection
+Jaelynn Sosa,61,NA,1,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,UTI
+Zaire Gross,61,NA,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,hypertensive crisis
+Lana Burton,74,NA,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,CHF
+Mary Daniels,45,NA,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,CHF
+Karly Tran,37,NA,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,hypertensive crisis
+Marlon Moon,47,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,hypertensive crisis
+Joyce Walsh,62,NA,1,1,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0,0,Respiratory Infection
+Abigail Mckee,76,NA,0,1,0,0,0,0,1,1,1,0,1,0,0,1,1,0,0,0,Respiratory Infection
+Kaleigh Morris,35,NA,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,broken bone
+Mollie Estrada,26,NA,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,1,UTI
+Elijah Ali,62,NA,1,1,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,hypertensive crisis
+Jaliyah Stein,71,NA,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,UTI
+Kara Koch,18,NA,0,1,0,0,0,0,0,1,1,0,0,1,0,1,1,1,0,0,Respiratory Infection
+Thaddeus Riggs,74,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Amelie Padilla,33,NA,0,1,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,1,Respiratory Infection
+Leon Knapp,67,NA,0,1,0,0,1,0,1,1,0,1,0,1,1,0,0,0,0,1,High Blood Sugar
+Donovan Vang,51,NA,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,broken bone
+Yadiel Jackson,56,NA,1,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,CHF
+Giancarlo Glover,70,NA,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,UTI
+Philip Melton,15,NA,1,0,1,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,CHF
+Sidney Duke,36,NA,0,1,0,0,1,0,0,1,1,0,0,0,0,1,1,1,0,0,Respiratory Infection
+Mireya French,10,NA,1,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Braylon Stanley,37,NA,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,1,UTI
+Madelyn Proctor,44,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Deja Gould,33,NA,0,0,0,0,1,1,1,1,0,1,1,0,1,0,0,0,0,1,High Blood Sugar
+Keenan Mills,12,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Quintin Kirby,35,NA,0,1,0,0,1,0,1,1,1,0,0,0,1,0,1,0,0,0,Respiratory Infection
+Lizbeth Diaz,12,NA,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,1,UTI
+Aryana Pruitt,53,NA,1,0,0,0,1,0,1,1,0,1,0,0,1,0,1,0,0,1,High Blood Sugar
+Carolyn Benson,57,NA,0,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0,1,1,High Blood Sugar
+Elsa Pruitt,53,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Charity Tran,33,NA,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,Respiratory Infection
+Keira Warner,66,NA,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,CHF
+Gianna Case,65,NA,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,1,UTI
+Malcolm Knapp,32,NA,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Tia Irwin,70,NA,1,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,UTI
+Karma Spears,28,NA,1,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,1,Respiratory Infection
+Danna Reilly,33,NA,1,1,0,0,0,1,0,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Braxton Wade,22,NA,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,Respiratory Infection
+Jaxon Villarreal,59,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Ezra Cowan,25,NA,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,broken bone
+Emmett Huff,64,NA,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,broken bone
+Dereon Stephens,50,NA,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,broken bone
+Ignacio Bentley,15,NA,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,CHF
+Rowan Vance,18,NA,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1,1,1,High Blood Sugar
+Clayton Daugherty,63,NA,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,broken bone
+Howard Kelley,13,NA,0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,Respiratory Infection
+Declan Brandt,77,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Marco Grant,52,NA,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,Respiratory Infection
+Alessandro Davidson,35,NA,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,broken bone
+Izabella Guerrero,61,NA,0,0,0,0,1,0,1,1,0,1,1,1,0,0,0,0,1,1,High Blood Sugar
+Chace James,76,NA,0,1,0,0,1,0,0,1,1,0,1,0,1,0,1,0,0,0,Respiratory Infection
+Jasmine Woodward,28,NA,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,broken bone
+Aria Young,55,NA,0,0,0,1,1,0,1,1,0,1,1,0,1,0,0,0,0,1,High Blood Sugar
+Jocelynn Frost,58,NA,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,1,UTI
+Luca Gray,72,NA,0,0,0,0,1,0,1,1,0,1,0,1,0,1,0,1,0,1,High Blood Sugar
+Aliyah Woodward,47,NA,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,Respiratory Infection
+Nelson Jones,59,NA,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,1,0,0,CHF
+Savion Mcneil,34,NA,0,0,0,0,1,1,1,1,1,1,0,1,0,0,0,0,0,1,High Blood Sugar
+Ella Wheeler,45,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Giovanni Fleming,44,NA,0,1,1,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Jazlene Rush,23,NA,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,CHF
+Leonel Villanueva,12,NA,0,1,0,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,Respiratory Infection
+Emmett Lee,22,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Jaydon Stanley,35,NA,1,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Aaliyah Butler,60,NA,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1,0,0,Respiratory Infection
+Katelynn Myers,80,NA,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,broken bone
+Izaiah Browning,60,NA,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,Respiratory Infection
+Keyon Ramsey,51,NA,0,0,1,0,1,0,1,1,0,1,0,1,1,0,0,0,0,1,High Blood Sugar
+Cecilia Robles,72,NA,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,broken bone
+Isai Potts,62,NA,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,Respiratory Infection
+Hillary Tapia,18,NA,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,UTI
+Kasey Newton,51,NA,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,UTI
+Lamont Warner,69,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Ana Kelly,12,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Jaydon Mclean,21,NA,0,1,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,1,Respiratory Infection
+Dereon Ellis,33,NA,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,UTI
+Gavin Boone,18,NA,1,0,1,0,1,0,1,1,0,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Porter Barnes,26,NA,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,broken bone
+Kyra Blanchard,62,NA,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,broken bone
+Jazlynn Vang,60,NA,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,0,1,UTI
+Houston Neal,15,NA,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,UTI
+Chelsea Tanner,28,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Devan Golden,36,NA,0,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,UTI
+Jordon Fleming,74,NA,0,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0,0,1,High Blood Sugar
+Stacy Diaz,69,NA,0,1,1,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,Respiratory Infection
+Azul Parker,30,NA,0,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Hana Contreras,19,NA,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,UTI
+Valerie Joyce,18,NA,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,hypertensive crisis
+Paul Barron,21,NA,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,broken bone
+Koen Lucas,24,NA,0,0,1,0,1,0,1,1,0,1,1,0,1,0,0,0,0,1,High Blood Sugar
+Aryanna Lawson,22,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Phoenix Morales,74,NA,1,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,CHF
+Litzy Cowan,74,NA,1,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Carson Olsen,35,NA,0,1,0,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,Respiratory Infection
+Joey Flowers,24,NA,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,broken bone
+Halle Cardenas,30,NA,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,1,High Blood Sugar
+Myles Bullock,65,NA,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,broken bone
+Ronnie Santos,28,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Regan Dean,32,NA,1,1,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,Respiratory Infection
+Abril Newton,40,NA,0,0,1,1,1,0,1,1,0,1,0,0,0,0,1,0,0,1,High Blood Sugar
+Annalise Watkins,55,NA,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,UTI
+Lauryn Lang,53,NA,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,1,High Blood Sugar
+Carlie Calderon,36,NA,1,1,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,Respiratory Infection
+Rhett Davidson,38,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Ryleigh Carney,24,NA,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Giancarlo Patterson,59,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,hypertensive crisis
+Parker Colon,10,NA,1,1,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,Respiratory Infection
+Carina Manning,49,NA,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,1,CHF
+Marisol Morton,25,NA,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,1,CHF
+Jayden Anthony,45,NA,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,Respiratory Infection
+Alivia Rodgers,45,NA,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1,1,0,0,Respiratory Infection
+Skyla Ware,46,NA,1,0,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Bernard Drake,46,NA,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,hypertensive crisis
+Skyla Yoder,22,NA,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,1,UTI
+Matthias Campbell,38,NA,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,1,1,UTI
+Cortez Bates,71,NA,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,1,0,0,broken bone
+Aldo Stanton,69,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Trace Evans,70,NA,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,hypertensive crisis
+London Patterson,55,NA,0,0,0,0,0,1,0,0,0,1,1,0,0,1,1,0,0,1,UTI
+Timothy Estes,29,NA,1,1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Ishaan Horton,56,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Matthias Bryan,35,NA,0,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,Respiratory Infection
+Brayden Erickson,21,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Phoenix Phillips,58,NA,1,0,1,0,1,0,1,1,0,1,0,0,0,0,1,0,0,1,High Blood Sugar
+Delilah Clay,52,NA,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,broken bone
+Isiah Weber,10,NA,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,1,0,0,broken bone
+Ingrid Davies,17,NA,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,0,1,High Blood Sugar
+Isabella Stuart,45,NA,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,broken bone
+Harry Walls,47,NA,0,1,1,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,Respiratory Infection
+Lamar Franco,59,NA,0,0,0,0,1,0,1,1,0,1,0,1,1,0,0,0,1,1,High Blood Sugar
+Mathew Farrell,29,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Branden Guerra,32,NA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,broken bone
+Pierce Ellis,58,NA,0,1,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0,1,Respiratory Infection
+Marlon Powell,71,NA,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,hypertensive crisis
+Naomi Lloyd,36,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Amira Brock,21,NA,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,UTI
+Samantha Oconnell,79,NA,1,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,hypertensive crisis
+Royce Welch,59,NA,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,hypertensive crisis
+Julissa Collins,40,NA,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,Respiratory Infection
+Ariana Aguirre,33,NA,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,UTI
+Moises Webb,76,NA,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,broken bone
+Jacey Tucker,69,NA,1,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Amya Ward,11,NA,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,1,broken bone
+Anaya Berry,79,NA,1,0,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,CHF
+Drew Kaiser,38,NA,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Avery Sampson,49,NA,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1,0,0,1,UTI
+Lincoln Steele,39,NA,1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,CHF
+Lola Goodwin,54,NA,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,1,0,1,High Blood Sugar
+Darnell Wolf,41,NA,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,broken bone
+Nicholas Booth,28,NA,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,1,High Blood Sugar
+Chance Summers,35,NA,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,hypertensive crisis
+Jayden Campbell,44,NA,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,broken bone
+Jaelynn Estes,40,NA,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,CHF
+Jacquelyn Figueroa,23,NA,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,hypertensive crisis
+Paloma Brady,68,NA,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Gustavo Lloyd,34,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Isabella Garza,68,NA,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,CHF
+Kiersten Mullins,11,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Chandler Molina,33,NA,0,0,1,0,1,0,1,1,1,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Ethan Hickman,11,NA,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,CHF
+Laci Sloan,13,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Carsen Townsend,17,NA,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,broken bone
+Mila Kelley,74,NA,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,hypertensive crisis
+Ashly Wade,76,NA,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,hypertensive crisis
+Lauryn Conway,35,NA,1,1,0,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Carolyn Hughes,52,NA,0,1,0,0,1,0,0,1,1,1,0,1,0,0,1,0,0,0,Respiratory Infection
+Elsa Maddox,61,NA,0,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Nathan Webb,70,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Logan Costa,48,NA,1,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,CHF
+April Ashley,40,NA,0,1,0,0,0,1,0,1,1,1,0,0,1,0,1,0,0,0,Respiratory Infection
+Lance Gardner,65,NA,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,broken bone
+Ray Lloyd,78,NA,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,broken bone
+Reese Arroyo,48,NA,0,1,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,1,Respiratory Infection
+Celeste Jacobs,19,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Solomon Zuniga,74,NA,0,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Kenzie Wagner,68,NA,0,1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Emilie Kramer,47,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Yusuf Reyes,56,NA,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,CHF
+Giovanna Rivera,30,NA,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,1,1,High Blood Sugar
+Amiah Taylor,73,NA,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,0,1,High Blood Sugar
+Jaelyn Mann,65,NA,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,broken bone
+Marlene Mcfarland,14,NA,0,1,0,0,0,0,1,1,1,0,1,0,0,0,1,1,0,0,Respiratory Infection
+Jaylon Schultz,57,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,hypertensive crisis
+Reagan Wyatt,20,NA,1,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Skyler Valdez,25,NA,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1,UTI
+Phillip Wilkins,30,NA,0,0,0,1,1,0,1,1,0,1,0,1,1,0,0,0,0,1,High Blood Sugar
+Leo Stark,72,NA,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,1,UTI
+Rihanna Pineda,50,NA,0,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Kole Washington,12,NA,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,broken bone
+Tyson Rose,37,NA,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,hypertensive crisis
+Krista Cummings,28,NA,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,1,0,1,UTI
+Ishaan Hodge,19,NA,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,UTI
+Elian Mayer,42,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Yesenia Conway,66,NA,0,1,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0,1,Respiratory Infection
+Warren West,28,NA,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,hypertensive crisis
+Skye Davenport,32,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Vance Gates,19,NA,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,broken bone
+Ari Eaton,31,NA,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,1,0,0,broken bone
+Gabriela Roach,34,NA,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,UTI
+Kaylee Paul,79,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Phoebe Hayden,20,NA,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,CHF
+Leila Oneal,45,NA,1,1,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,Respiratory Infection
+Marely Weber,10,NA,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,1,CHF
+Ryan Moon,50,NA,0,1,0,1,0,0,0,1,1,0,0,1,0,0,1,1,0,0,Respiratory Infection
+Lucas Hooper,59,NA,0,1,1,0,0,0,0,1,1,1,0,0,0,1,1,0,0,0,Respiratory Infection
+Jocelyn Gould,65,NA,0,1,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,UTI
+Alvin Branch,13,NA,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,CHF
+Miles Kennedy,44,NA,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,hypertensive crisis
+Samantha Molina,43,NA,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,UTI
+Rowan Golden,73,NA,1,1,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Briana Fowler,74,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Slade Pena,74,NA,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,1,broken bone
+Spencer Stone,62,NA,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0,1,0,1,High Blood Sugar
+Jaida Ward,57,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Dexter Phillips,69,NA,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Lilliana Vance,75,NA,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,1,CHF
+Zaiden Bullock,56,NA,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,1,1,High Blood Sugar
+Madelyn Kaiser,55,NA,0,1,0,0,0,1,0,1,1,1,0,0,0,1,1,0,0,0,Respiratory Infection
+Leia Casey,79,NA,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,1,0,0,CHF
+Will Stephenson,58,NA,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,0,0,1,UTI
+Cash Romero,70,NA,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0,0,1,High Blood Sugar
+Jamie Wilkerson,59,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Isla Bartlett,58,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Selena Blevins,29,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Stella Gilbert,44,NA,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Zaiden Olsen,71,NA,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,1,0,0,broken bone
+Beckett Mata,19,NA,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,0,1,UTI
+Alejandra Maddox,16,NA,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,hypertensive crisis
+Roman Jacobs,38,NA,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,CHF
+Gianni Michael,29,NA,0,0,0,1,1,0,1,1,0,1,0,0,1,1,0,0,0,1,High Blood Sugar
+Freddy Horton,64,NA,0,1,1,0,1,0,0,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Bailey Daniel,32,NA,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Lana Perkins,61,NA,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,broken bone
+Jayvion Houston,73,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Cesar Hensley,14,NA,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,broken bone
+Maxim Hurley,48,NA,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,hypertensive crisis
+Francis Rush,68,NA,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,CHF
+Lindsay Hess,69,NA,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,1,CHF
+Mary Blackburn,40,NA,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,hypertensive crisis
+Araceli Ballard,51,NA,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Alisha Peterson,67,NA,1,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,CHF
+Briana Sexton,58,NA,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,CHF
+Arnav Schultz,12,NA,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,CHF
+Jaylah Campos,45,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Darren Wyatt,18,NA,0,0,0,1,1,0,1,1,0,1,0,0,1,0,1,0,0,1,High Blood Sugar
+Orion Austin,56,NA,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,CHF
+Ali Hart,73,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Andy Gallagher,56,NA,0,1,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,Respiratory Infection
+Sydnee Gonzalez,14,NA,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,broken bone
+Shea Trevino,12,NA,0,0,0,0,1,1,1,1,0,1,0,1,1,0,0,0,0,1,High Blood Sugar
+Leilani Horn,72,NA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,broken bone
+Tristan Delacruz,11,NA,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,broken bone
+Bennett Cooke,20,NA,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,CHF
+Marilyn Marks,67,NA,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,CHF
+Shane Klein,12,NA,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,CHF
+Wendy Gregory,10,NA,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Johnathan Burnett,13,NA,1,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Miya Wilkins,68,NA,1,1,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,hypertensive crisis
+Thomas Ellis,67,NA,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,broken bone
+Kaylie Wiggins,23,NA,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,CHF
+Jaylen Williamson,20,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Elise Wyatt,35,NA,0,0,0,1,1,0,1,1,0,1,0,1,0,0,1,0,0,1,High Blood Sugar
+Kaila Giles,69,NA,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,broken bone
+Chelsea Campbell,31,NA,1,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,1,1,High Blood Sugar
+Brianna Zamora,70,NA,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,hypertensive crisis
+Saul Barajas,70,NA,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,CHF
+Waylon Stein,39,NA,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,CHF
+Trevon Woodward,14,NA,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,1,Respiratory Infection
+Stephen Goodwin,10,NA,1,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Angel Winters,13,NA,0,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Zayne Holder,12,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Deborah Lucas,13,NA,0,0,1,0,1,1,1,1,0,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Jayda Mcmillan,10,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Antony Frye,19,NA,0,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,Respiratory Infection
+Howard Chan,16,NA,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,CHF
+Naomi Logan,43,NA,0,1,1,0,0,0,0,1,1,0,1,0,0,1,1,0,0,0,Respiratory Infection
+Gauge Cooke,79,NA,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,UTI
+Jan Humphrey,69,NA,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,CHF
+Keenan Valentine,80,NA,0,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Brooklynn Norris,69,NA,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,CHF
+Jordon Hayes,70,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Juliana Adams,31,NA,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,broken bone
+Felicity Mcbride,71,NA,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,1,1,High Blood Sugar
+Karli Stanton,40,NA,0,1,0,0,0,0,0,1,1,1,0,1,0,0,1,0,0,1,Respiratory Infection
+Carson Morgan,64,NA,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,CHF
+Emely Hess,30,NA,0,1,0,0,0,1,0,1,1,1,0,1,0,0,1,0,0,0,Respiratory Infection
+Cameron Watkins,31,NA,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,hypertensive crisis
+Rohan Meyers,66,NA,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,UTI
+Caden Young,72,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Aliana Valdez,60,NA,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,1,broken bone
+Davion Carroll,38,NA,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,broken bone
+Braden Prince,42,NA,1,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,hypertensive crisis
+Edward Rios,55,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Adriel Bryant,25,NA,0,1,1,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,Respiratory Infection
+Courtney Davies,45,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Coby Martin,66,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Clayton Nicholson,12,NA,0,1,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Boston Huang,50,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Andy Powell,60,NA,0,0,0,0,1,0,1,1,0,1,0,0,1,1,0,1,0,1,High Blood Sugar
+Enrique Burgess,55,NA,0,1,0,0,0,0,1,1,1,0,0,1,0,0,1,0,1,0,Respiratory Infection
+Ellen Delgado,56,NA,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,1,UTI
+Alonso Luna,69,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Grady Pena,38,NA,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,CHF
+Cannon Galvan,42,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,hypertensive crisis
+Braydon Archer,37,NA,0,0,0,1,1,0,1,1,1,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Javier Newton,31,NA,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,hypertensive crisis
+Micah Dodson,55,NA,0,1,0,1,1,0,0,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Jaylen Brennan,76,NA,0,1,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0,1,Respiratory Infection
+Brodie Reese,65,NA,0,1,0,0,1,0,0,1,1,0,0,0,1,1,1,0,0,0,Respiratory Infection
+Guadalupe Mcknight,43,NA,0,1,1,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,Respiratory Infection
+Desmond Mullins,64,NA,0,1,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,1,Respiratory Infection
+Jovany Leon,58,NA,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,broken bone
+Lauren Stone,57,NA,0,0,0,1,1,0,1,1,0,1,0,0,0,1,0,1,0,1,High Blood Sugar
+Jaida Campbell,73,NA,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1,1,0,Respiratory Infection
+Paige Potter,80,NA,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0,broken bone
+Nico Haynes,42,NA,0,1,0,0,1,0,1,1,0,1,0,1,1,0,0,0,0,1,High Blood Sugar
+Skyler Melendez,75,NA,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1,0,1,Respiratory Infection
+Jaylene Gill,15,NA,0,1,0,0,0,0,0,1,1,1,0,0,1,1,1,0,0,0,Respiratory Infection
+Braden Travis,58,NA,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,broken bone
+Cooper Jennings,20,NA,1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,0,0,1,High Blood Sugar
+Eduardo Robinson,13,NA,0,1,1,0,0,0,0,1,1,0,0,1,0,1,1,0,0,0,Respiratory Infection
+Madelynn Clay,50,NA,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,broken bone
+Dominique Cordova,47,NA,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,UTI
+Alfonso Alvarado,71,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Hezekiah Velez,43,NA,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,Respiratory Infection
+Avery Rubio,39,NA,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,1,UTI
+Cole Cordova,21,NA,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,broken bone
+Cara Li,71,NA,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Cheyenne Lang,57,NA,1,1,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Precious Boone,52,NA,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,0,broken bone
+Ella Barr,69,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Shaniya Roberson,61,NA,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,hypertensive crisis
+Joe Lutz,10,NA,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,UTI
+Abraham Mccarthy,34,NA,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,1,UTI
+Jamya Jordan,21,NA,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Luna Macias,80,NA,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,0,CHF
+Akira Potts,49,NA,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0,0,1,1,High Blood Sugar
+Amaris Melton,64,NA,0,1,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,1,Respiratory Infection
+Chad Meza,68,NA,1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,CHF
+Phoenix Buck,59,NA,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,hypertensive crisis
+Aleah Anderson,61,NA,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,hypertensive crisis
+Bruce Mcdaniel,19,NA,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,CHF
+Adeline Manning,11,NA,0,1,0,0,1,0,0,1,1,1,1,0,0,0,1,0,0,0,Respiratory Infection
+Lilyana Bernard,42,NA,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,UTI
+Hailee Harrell,18,NA,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,broken bone
+Kali Dalton,29,NA,0,1,1,0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Sam Gardner,48,NA,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,hypertensive crisis
+Leanna Frank,46,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Miles Wells,58,NA,1,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Lucy Sexton,71,NA,0,0,1,1,1,0,1,1,0,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Tobias Hayden,30,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Tripp Werner,29,NA,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,CHF
+Charlize Boone,68,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Cohen Stephenson,12,NA,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,CHF
+Saige Kelley,26,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Nathalia Franklin,15,NA,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,hypertensive crisis
+Lawrence Haley,30,NA,0,1,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Sharon May,61,NA,1,0,1,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,CHF
+Skyler Padilla,45,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+London Boyer,48,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Troy Mcfarland,46,NA,1,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,hypertensive crisis
+Ali Bolton,25,NA,1,1,0,0,1,0,1,1,0,1,0,0,0,0,1,0,0,1,High Blood Sugar
+Gianni Blackwell,75,NA,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,CHF
+Aubrey Reid,51,NA,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,UTI
+Jaron Fisher,34,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Lainey Palmer,23,NA,1,1,0,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Stephanie Palmer,38,NA,1,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,0,CHF
+Kaya Graham,37,NA,0,1,0,0,0,1,0,1,1,1,0,0,0,0,1,0,1,0,Respiratory Infection
+Laylah Reilly,34,NA,1,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Deshawn Horne,15,NA,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,1,UTI
+Gillian Moses,15,NA,0,1,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,1,Respiratory Infection
+Jeremiah Graham,13,NA,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,UTI
+Layton Waters,20,NA,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,Respiratory Infection
+Adelaide Ewing,71,NA,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,CHF
+Braelyn Jennings,15,NA,1,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Jordin Bush,51,NA,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,broken bone
+Kenzie Oliver,11,NA,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,hypertensive crisis
+Gunner Avery,36,NA,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,1,0,CHF
+Averie Bradley,15,NA,0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1,UTI
+Kamron Lawrence,76,NA,0,0,1,0,1,1,1,1,0,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Desirae Coffey,58,NA,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,hypertensive crisis
+Emmanuel Larson,13,NA,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1,1,1,High Blood Sugar
+Caroline Pollard,12,NA,0,1,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0,1,Respiratory Infection
+Javion Moon,79,NA,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,1,0,0,Respiratory Infection
+Nasir Hudson,69,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Kaila Winters,29,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Natalya Merritt,65,NA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,broken bone
+Kendra Shelton,76,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Myles Johns,14,NA,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1,CHF
+Reid Donaldson,46,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Karley Campbell,68,NA,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,broken bone
+Benjamin French,13,NA,0,1,0,0,0,0,0,1,1,1,0,0,1,1,1,0,0,0,Respiratory Infection
+Julien Cohen,47,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Tatiana Wu,56,NA,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,hypertensive crisis
+Aliyah Randolph,21,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,1,1,1,High Blood Sugar
+Lucian Mcdonald,18,NA,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,UTI
+Stephany Wolfe,67,NA,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,1,CHF
+Lennon Savage,51,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Tamia Mcgrath,46,NA,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,1,0,0,broken bone
+Luciano Rios,47,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Aurora Carrillo,22,NA,0,1,0,1,0,1,0,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Geovanni Lawrence,71,NA,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,CHF
+Izayah Logan,16,NA,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,UTI
+Matias Floyd,49,NA,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,CHF
+Felicity Brennan,68,NA,1,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Kenyon Barber,14,NA,1,1,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,hypertensive crisis
+Quinten Riley,45,NA,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1,1,0,Respiratory Infection
+Jamie Ross,21,NA,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,UTI
+Keon Benson,16,NA,0,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,UTI
+Ricardo Frank,59,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,1,0,1,1,High Blood Sugar
+Marquise Boyd,42,NA,1,1,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,hypertensive crisis
+Mark Hebert,76,NA,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,0,1,High Blood Sugar
+Emilee Curry,76,NA,1,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,1,UTI
+Caitlin Oconnor,13,NA,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,1,CHF
+Sidney Harper,39,NA,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,UTI
+Aaron Bailey,28,NA,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,1,UTI
+Nicolas Daniel,48,NA,1,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,CHF
+Samir Olsen,24,NA,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,CHF
+Kendrick Fuller,74,NA,1,1,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,Respiratory Infection
+Brody Woodard,24,NA,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,0,Respiratory Infection
+Jasmine Garza,11,NA,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Kierra Werner,75,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Patience Serrano,24,NA,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,1,1,UTI
+Ciara Walls,57,NA,1,1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,hypertensive crisis
+Damien Riddle,11,NA,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,broken bone
+Dayami Gregory,28,NA,0,1,1,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0,Respiratory Infection
+Ayanna Mercer,76,NA,0,1,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Kaden Donovan,59,NA,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,UTI
+Jasper Page,24,NA,0,1,0,0,0,1,0,1,1,1,0,1,0,0,1,0,0,0,Respiratory Infection
+Diana Bartlett,35,NA,1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,CHF
+Izabella Dunn,50,NA,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,0,1,UTI
+Brooklyn Neal,65,NA,0,1,0,0,0,0,0,1,1,0,1,0,0,1,1,0,1,0,Respiratory Infection
+Maria Mccoy,50,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Simone Combs,76,NA,0,1,0,0,1,0,1,1,0,1,0,0,0,1,1,0,0,1,High Blood Sugar
+Malachi Day,33,NA,1,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,hypertensive crisis
+Kymani Zuniga,12,NA,0,1,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Shawn Boyer,27,NA,0,1,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,1,Respiratory Infection
+Ryann Parks,71,NA,0,0,0,0,0,0,1,0,1,0,1,0,0,1,1,0,0,1,UTI
+Braelyn Berger,56,NA,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,broken bone
+Davon Melendez,43,NA,0,0,1,0,1,0,1,1,0,1,0,1,0,0,0,0,1,1,High Blood Sugar
+Augustus Riddle,27,NA,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Valentino Allison,69,NA,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,1,UTI
+Sienna Miles,30,NA,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0,1,0,1,High Blood Sugar
+Micah Summers,47,NA,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Antoine Ayers,28,NA,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,broken bone
+Gerald Galloway,55,NA,1,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,1,UTI
+Willow Randolph,55,NA,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,1,0,1,High Blood Sugar
+Courtney Yoder,11,NA,0,1,0,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,Respiratory Infection
+Madeleine West,20,NA,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,UTI
+Garrett Snyder,44,NA,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,1,0,Respiratory Infection
+Savanna Huerta,24,NA,1,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,UTI
+Owen Shields,27,NA,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0,0,CHF
+Caylee Villanueva,32,NA,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,1,UTI
+Ezequiel Duarte,28,NA,1,1,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,hypertensive crisis
+Linda Dunlap,25,NA,0,1,1,0,0,0,1,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Boston Mcgrath,38,NA,0,0,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,UTI
+German Collier,22,NA,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,1,UTI
+Anna Mcclain,63,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Deja Huynh,78,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Harold Oconnor,24,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Ashley Holland,60,NA,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Bryant Noble,46,NA,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,broken bone
+Joanna Holden,60,NA,0,1,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,1,Respiratory Infection
+Leonard Rasmussen,62,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Devin Graham,68,NA,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,broken bone
+Kane Proctor,44,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Abbie George,75,NA,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,1,Respiratory Infection
+Damon Franco,34,NA,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,CHF
+Abbigail Dean,76,NA,1,1,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Melissa Perkins,32,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Rudy Schmitt,60,NA,1,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,hypertensive crisis
+Dominique Boyle,28,NA,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,1,UTI
+Zackary Delacruz,74,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Aydan Hogan,15,NA,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,CHF
+Demarion Mejia,66,NA,0,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0,0,1,High Blood Sugar
+Selah Bennett,43,NA,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,Respiratory Infection
+Dulce Buckley,13,NA,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,UTI
+Janiah Salas,62,NA,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1,0,0,CHF
+Jace Jenkins,54,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Catalina Avila,16,NA,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,broken bone
+Lola Parsons,31,NA,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,UTI
+Cora Johns,29,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Samson Bennett,38,NA,1,0,0,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0,CHF
+Amaris Prince,48,NA,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,hypertensive crisis
+Iris Valdez,16,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Sullivan Herman,13,NA,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,broken bone
+Jonathan Carpenter,54,NA,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,1,UTI
+Asher Price,57,NA,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1,1,0,0,CHF
+Quintin Mcclure,69,NA,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,hypertensive crisis
+Libby Wise,45,NA,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,hypertensive crisis
+Alana Maxwell,27,NA,1,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,hypertensive crisis
+Marlene Shah,66,NA,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,0,Respiratory Infection
+Meghan Buckley,50,NA,0,0,1,0,1,0,0,0,0,1,0,0,0,1,1,0,0,1,UTI
+Billy Yoder,23,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Romeo Brewer,25,NA,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,1,UTI
+Joslyn Hall,75,NA,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,broken bone
+Morgan Melendez,67,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Haylee Carpenter,27,NA,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,1,CHF
+Curtis Monroe,48,NA,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,UTI
+Tiara Snow,50,NA,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Dayana Krause,18,NA,0,0,0,0,1,1,1,1,0,1,0,0,1,0,1,0,0,1,High Blood Sugar
+Ariana Hebert,26,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Celeste Burnett,80,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Tomas Marsh,35,NA,1,0,0,0,1,0,1,1,0,1,0,0,1,1,0,0,0,1,High Blood Sugar
+Mauricio Cole,37,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Lawson Gallagher,46,NA,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1,1,0,Respiratory Infection
+Kael Sharp,58,NA,1,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1,0,0,CHF
+Kimberly Berry,19,NA,1,0,0,0,1,1,1,1,0,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Danna Todd,21,NA,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,hypertensive crisis
+Kayden Bender,66,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Allie Dixon,47,NA,1,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,hypertensive crisis
+Damaris Wall,52,NA,0,1,0,0,1,0,1,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Mylie Williams,62,NA,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,hypertensive crisis
+Genevieve Fischer,24,NA,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,0,1,UTI
+Mikayla Good,45,NA,1,1,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Riley Lopez,38,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Mina Dudley,74,NA,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,UTI
+Jaidyn Singh,27,NA,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1,Respiratory Infection
+Mario Glover,21,NA,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,1,1,1,High Blood Sugar
+Franklin Harrell,27,NA,0,0,0,1,1,1,1,1,0,1,0,1,0,0,0,0,0,1,High Blood Sugar
+Destinee Diaz,19,NA,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,broken bone
+Diego Spears,35,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Daniel Moran,80,NA,0,0,0,0,1,0,1,1,1,1,0,0,0,1,1,0,0,1,High Blood Sugar
+Eileen Mcintyre,26,NA,1,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,CHF
+Abigail Sellers,57,NA,0,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0,1,UTI
+Jasmin Berg,56,NA,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,1,CHF
+Cassius Hodges,79,NA,1,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,hypertensive crisis
+Walter Summers,47,NA,0,1,0,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,Respiratory Infection
+Angela Hensley,10,NA,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,broken bone
+Zion Donovan,30,NA,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0,1,UTI
+Erika Rowe,68,NA,1,1,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,hypertensive crisis
+Dakota Cook,34,NA,0,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,UTI
+Kyleigh Huynh,69,NA,1,1,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Dana Mccann,11,NA,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Kendall Melton,41,NA,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,UTI
+Lane Andersen,72,NA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0,broken bone
+Hana Long,24,NA,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,broken bone
+Tristin Barajas,76,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Dixie Yu,73,NA,0,1,0,1,1,0,0,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Erica Sanchez,53,NA,0,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,UTI
+Laney Novak,57,NA,1,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,hypertensive crisis
+Monica Clayton,37,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Finn Ochoa,21,NA,0,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Darion Stevenson,79,NA,1,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Jovany Mosley,61,NA,0,1,0,0,1,0,1,1,0,1,0,0,0,1,1,0,0,1,High Blood Sugar
+Isaac Gonzalez,37,NA,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,High Blood Sugar
+Lyric Wood,75,NA,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,hypertensive crisis
+Jeffery Bass,35,NA,1,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,hypertensive crisis
+Sloane Rowland,48,NA,0,0,0,0,1,0,1,1,0,1,1,1,1,0,0,0,0,1,High Blood Sugar
+Gilberto Ray,60,NA,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Gary Santos,39,NA,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,1,1,1,High Blood Sugar
+Payton Choi,32,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Sarahi Lawrence,19,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Dayami Ball,79,NA,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,CHF
+Gabriella Bullock,73,NA,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,broken bone
+Sylvia Moody,60,NA,0,1,1,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Kristina Schmitt,46,NA,0,1,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,1,Respiratory Infection
+Bryan Flowers,12,NA,0,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Amya Roberts,44,NA,1,1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Ellie Mora,70,NA,1,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,CHF
+Zayne Huffman,72,NA,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,1,0,1,High Blood Sugar
+Leland Gallegos,80,NA,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,CHF
+Rodney Mclean,30,NA,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,CHF
+Chana Barajas,46,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Imani Fisher,21,NA,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,broken bone
+Jose Yates,67,NA,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,1,UTI
+Madison Garner,20,NA,1,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,CHF
+Kate Gallagher,47,NA,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,CHF
+Kamren Chapman,72,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Isis Joyce,24,NA,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,1,UTI
+April Browning,15,NA,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,1,0,0,broken bone
+Lila Turner,38,NA,0,0,0,1,0,1,0,0,0,0,1,0,0,1,1,0,0,1,UTI
+Xzavier Baird,36,NA,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,broken bone
+Terrance Turner,62,NA,0,0,0,0,1,0,1,1,0,1,1,0,1,1,0,0,0,1,High Blood Sugar
+Dylan Hays,52,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Mireya Wade,57,NA,0,1,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,1,Respiratory Infection
+Jovani Oneill,78,NA,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0,CHF
+Samson Bennett,69,NA,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,UTI
+Ryleigh Matthews,53,NA,0,0,0,0,1,0,0,1,0,1,0,0,0,1,1,0,0,1,UTI
+Deangelo George,22,NA,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,CHF
+Chaim Callahan,77,NA,1,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,CHF
+Atticus Bell,30,NA,1,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,CHF
+Braden Shannon,42,NA,0,0,1,0,1,0,1,1,1,1,0,0,1,0,0,0,0,1,High Blood Sugar
+Zayden Bowman,19,NA,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,UTI
+Jon Rasmussen,31,NA,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,broken bone
+Elisha York,79,NA,0,1,0,0,1,0,1,1,0,1,0,0,1,0,0,0,1,1,High Blood Sugar
+Karen Villegas,43,NA,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,UTI
+Marlee Decker,51,NA,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,broken bone
+Nikhil Frazier,49,NA,1,0,1,0,1,0,1,1,0,1,0,0,1,0,0,0,0,1,High Blood Sugar
+Colton Benitez,47,NA,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,1,0,0,CHF
+Demarion Woods,17,NA,1,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Jamison Walker,72,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Lucian Fields,25,NA,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,CHF
+Denisse Monroe,57,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Shania Mccall,32,NA,1,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0,0,1,High Blood Sugar
+Lina Henson,50,NA,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,0,broken bone
+Johanna Gould,57,NA,1,1,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,hypertensive crisis
+Janet Huerta,69,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Ali Welch,28,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Kira Zhang,70,NA,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,CHF
+Genevieve Valentine,41,NA,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,UTI
+Jasmine Galvan,14,NA,0,0,0,0,1,0,1,1,0,1,0,0,1,0,0,1,1,1,High Blood Sugar
+Kenzie Castaneda,74,NA,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,broken bone
+Marc Drake,53,NA,1,1,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Mike Best,19,NA,1,1,0,0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,Respiratory Infection
+Annalise Kane,18,NA,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,hypertensive crisis
+Marin Lang,40,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Nikolas Lynch,57,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,CHF
+Shyla Mcgee,69,NA,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,Respiratory Infection
+Sarah Price,41,NA,1,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,CHF
+Eden Davis,33,NA,0,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Precious Kent,62,NA,1,0,0,0,0,1,0,1,1,0,0,0,1,0,0,1,0,0,CHF
+Skylar Wong,57,NA,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,1,1,High Blood Sugar
+Kolten Fuller,11,NA,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,UTI
+Yair Conway,49,NA,1,0,0,0,0,0,1,1,1,0,0,0,0,1,0,1,0,0,CHF
+Slade Le,35,NA,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,hypertensive crisis
+Milo Blevins,29,NA,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,broken bone
+Amari Reynolds,39,NA,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,broken bone
+Donavan Vaughn,33,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Yusuf Crosby,54,NA,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,0,CHF
+Peyton Levine,32,NA,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,UTI
+Annie Pruitt,47,NA,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,hypertensive crisis
+Kendal Roth,36,NA,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,hypertensive crisis
+Kenny English,23,NA,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,broken bone
+Luciana Riddle,18,NA,1,0,0,1,1,0,1,1,0,1,0,0,0,0,1,0,0,1,High Blood Sugar
+Micheal Johns,39,NA,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,CHF
+Brooks Marks,37,NA,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,1,0,CHF
+Talia Carson,23,NA,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,1,0,0,broken bone
+Summer English,51,NA,1,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Carolyn Curry,29,NA,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,broken bone
+Elyse Cisneros,14,NA,1,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,1,UTI
+Carina Jennings,44,NA,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,1,1,UTI
+Ingrid Barrett,21,NA,1,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,CHF
+Cheyenne Howe,58,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Annabelle Chaney,79,NA,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,broken bone
+Matthias Wells,42,NA,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,1,0,0,CHF
+Conner Kelley,67,NA,1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,hypertensive crisis
+Ruben Chapman,50,NA,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,1,CHF
+Tommy Watts,66,NA,1,0,0,0,0,1,0,0,1,0,1,0,0,0,1,1,0,0,CHF
+Rhett Morse,48,NA,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,broken bone
+Layton Lewis,31,NA,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,hypertensive crisis
+Taylor Krause,14,NA,0,0,0,1,1,0,1,1,0,1,0,1,0,0,0,1,0,1,High Blood Sugar
+Ayanna Soto,54,NA,0,0,0,0,1,0,1,1,0,1,1,0,1,0,0,0,1,1,High Blood Sugar
+Layla Cardenas,20,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Brycen Morrow,28,NA,0,1,1,0,1,0,1,1,0,1,0,1,0,0,0,0,0,1,High Blood Sugar
+Yaritza Beasley,19,NA,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,0,broken bone
+Kyle Reese,66,NA,0,0,1,0,1,0,1,1,0,1,1,0,0,0,0,0,1,1,High Blood Sugar
+Destiny Castillo,34,NA,0,1,0,0,0,1,0,1,1,0,0,0,0,1,1,0,1,0,Respiratory Infection
+Jeramiah Cabrera,49,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,UTI
+Brock Robinson,13,NA,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1,0,CHF
+Rowan Callahan,62,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Avah Figueroa,78,NA,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,UTI
+Marvin Gallagher,12,NA,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,hypertensive crisis
+Adelaide Wagner,29,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Layne Allen,62,NA,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,0,0,CHF
+Bethany Moore,15,NA,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0,0,0,1,High Blood Sugar
+Sylvia West,13,NA,1,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Shannon Cameron,19,NA,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,CHF
+Wayne Zavala,69,NA,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,1,CHF
+Joselyn Dawson,70,NA,0,0,0,0,1,0,1,1,0,1,0,1,0,0,1,0,1,1,High Blood Sugar
+Marcos Small,56,NA,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,UTI
+Katelyn Woodward,26,NA,0,1,1,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Bailee Guerrero,49,NA,1,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,0,0,CHF
+Caleb Le,62,NA,0,0,0,0,1,0,1,1,0,1,1,1,0,0,1,0,0,1,High Blood Sugar
+Dalton Norman,61,NA,0,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0,0,1,UTI
+Hillary Bryant,60,NA,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,hypertensive crisis
+Malaki Huang,71,NA,0,0,0,0,1,0,1,1,0,1,1,0,1,0,0,1,0,1,High Blood Sugar
+Maleah Nicholson,34,NA,0,0,0,0,1,0,1,1,1,1,1,0,0,0,1,0,0,1,High Blood Sugar
+Shania Valdez,39,NA,0,0,0,1,1,0,1,1,0,1,0,1,1,0,0,0,0,1,High Blood Sugar
+Deanna Raymond,54,NA,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Gemma Cantu,15,NA,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,1,0,0,CHF
+Broderick Blake,69,NA,0,1,0,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,Respiratory Infection
+Johnathon Duran,48,NA,1,0,0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,0,CHF
+Danica Hudson,32,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Colten Krause,74,NA,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,broken bone
+Claudia Ayers,15,NA,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,0,broken bone
+Taylor Calhoun,13,NA,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1,1,0,1,Respiratory Infection
+Tony Sexton,29,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Jamie Dalton,70,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Hallie Bond,80,NA,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,1,0,Respiratory Infection
+Paola Franklin,58,NA,0,0,0,0,1,1,1,1,0,1,0,1,0,1,0,0,0,1,High Blood Sugar
+River Griffith,57,NA,0,0,1,0,1,1,1,1,0,1,0,0,0,0,1,0,0,1,High Blood Sugar
+Warren Harmon,35,NA,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,Respiratory Infection
+Violet Warner,48,NA,0,0,0,0,1,1,1,1,0,1,0,1,1,0,0,0,0,1,High Blood Sugar
+Lillie Lowery,47,NA,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,CHF
+Griffin Rogers,48,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Jordon Thornton,41,NA,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,Respiratory Infection
+Cristal Barajas,14,NA,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,CHF
+Camilla Phelps,34,NA,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,broken bone
+Matteo James,47,NA,1,1,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,hypertensive crisis
+Dexter Yoder,39,NA,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,0,0,broken bone
+Cecilia Joseph,69,NA,1,1,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,Respiratory Infection
+Jaida Hester,58,NA,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,broken bone
+Alannah Michael,37,NA,1,1,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,1,Respiratory Infection
+Karla Morrison,56,NA,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,1,UTI
+Lillianna Pruitt,19,NA,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,hypertensive crisis
+Angelica Paul,60,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Carlee Montoya,72,NA,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Jacquelyn Huerta,18,NA,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0,CHF
+Emmy Bass,75,NA,1,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,hypertensive crisis
+Mylee Roberts,53,NA,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,broken bone
+Giovanna Roberts,17,NA,0,1,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,1,UTI
+Gregory Willis,34,NA,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,hypertensive crisis
+Cordell Campbell,77,NA,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1,UTI
+Emely Dean,32,NA,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,1,UTI
+Ricky Pearson,13,NA,1,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Hamza Wells,79,NA,0,0,1,0,0,1,0,0,1,0,0,0,0,1,1,0,0,1,UTI
+Luciana Bender,45,NA,1,1,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,hypertensive crisis
+Ali Booth,69,NA,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Aaden Davidson,77,NA,1,1,0,0,0,0,0,1,1,1,0,0,0,0,1,0,1,0,Respiratory Infection
+Kyle Stout,43,NA,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,broken bone
+Precious Cooley,58,NA,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,broken bone
+Madalyn Espinoza,54,NA,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Jovan Montoya,37,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Raven Rubio,66,NA,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,hypertensive crisis
+Reina Romero,80,NA,0,1,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0,0,Respiratory Infection
+Gianna Hendrix,23,NA,0,1,0,0,1,0,1,1,0,1,0,0,0,1,0,1,0,1,High Blood Sugar
+Rebekah Harrison,52,NA,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,broken bone
+Clinton Cuevas,72,NA,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,UTI
+Derrick Crosby,22,NA,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,broken bone
+Janelle Gilbert,24,NA,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,CHF
+Molly Stanton,34,NA,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,hypertensive crisis
+Broderick Bryan,42,NA,0,0,1,1,1,0,1,1,0,1,0,1,0,0,0,0,0,1,High Blood Sugar
+Jazmin Pacheco,73,NA,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,1,UTI
+Jaqueline Cole,26,NA,1,1,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Fernando Lopez,15,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Shaun Villa,63,NA,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,CHF
+Elisabeth Payne,44,NA,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,Respiratory Infection
+Kathryn Franklin,34,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Marilyn Kane,50,NA,0,1,1,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,Respiratory Infection
+Donovan Norman,21,NA,1,1,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Messiah Mckee,18,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Mikaela Chen,61,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Stella Mcintosh,60,NA,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,1,1,1,High Blood Sugar
+Vance Short,28,NA,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Leroy Juarez,44,NA,1,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Lindsay Pruitt,59,NA,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,CHF
+Sloane Drake,42,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,UTI
+Beckett Spears,61,NA,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,broken bone
+Johan Brock,60,NA,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,broken bone
+Nyla Spence,72,NA,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,broken bone
+Azaria Sawyer,72,NA,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,CHF
+Karter Chambers,24,NA,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,0,0,CHF
+Ashanti Berger,60,NA,0,0,1,0,1,0,1,1,1,1,0,1,0,0,0,0,0,1,High Blood Sugar
+Kathy Luna,44,NA,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1,UTI
+Tony Strickland,22,NA,1,1,0,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Reuben Rubio,10,NA,0,0,1,0,1,0,1,1,0,1,1,0,0,0,0,1,0,1,High Blood Sugar
+Zaniyah Hatfield,41,NA,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,1,CHF
+Lila Kirby,78,NA,0,0,0,1,1,0,1,1,0,1,0,0,1,0,1,0,0,1,High Blood Sugar
+Destiney Li,60,NA,1,1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,hypertensive crisis
+Jakobe Mcdaniel,46,NA,1,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,CHF
+Albert Hoover,79,NA,0,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0,1,1,High Blood Sugar
+Frances Burnett,26,NA,0,0,0,0,1,1,1,1,0,1,0,1,0,1,0,0,0,1,High Blood Sugar
+Brock Robbins,64,NA,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0,1,0,1,High Blood Sugar
+Armani Ramirez,23,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Jamya Potts,25,NA,1,1,0,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Aaliyah Delacruz,13,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Malik Lester,27,NA,0,0,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,1,UTI
+Hugh Ruiz,20,NA,0,0,1,0,1,1,1,1,0,1,0,0,0,0,1,0,0,1,High Blood Sugar
+Paige Gibbs,58,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Jacqueline Burton,50,NA,0,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,1,UTI
+Paul Horton,56,NA,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,broken bone
+Ryan Manning,59,NA,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,CHF
+Karson Walsh,64,NA,0,1,1,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0,Respiratory Infection
+Alani Bishop,46,NA,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,hypertensive crisis
+Presley Todd,37,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Carla Pruitt,27,NA,0,1,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Luciana Haney,28,NA,1,0,0,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,CHF
+Holly James,57,NA,1,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,CHF
+Shyla Holder,30,NA,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,broken bone
+Dixie Copeland,29,NA,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,UTI
+Whitney Mcgrath,41,NA,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,CHF
+Elianna Contreras,30,NA,0,0,0,0,1,1,1,1,0,1,0,1,0,1,0,0,0,1,High Blood Sugar
+Houston Little,11,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Abdullah Marks,38,NA,0,1,1,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Kamryn Young,28,NA,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,broken bone
+Ivan Hudson,66,NA,0,1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,Respiratory Infection
+Alfred Park,23,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Juliana Fuller,43,NA,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,broken bone
+Bailey Mullins,56,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,CHF
+Kareem Ho,66,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Kane Case,35,NA,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,CHF
+Enzo Roach,72,NA,1,1,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,hypertensive crisis
+Jazlene Keller,18,NA,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,CHF
+Kaia Dean,28,NA,1,0,0,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0,CHF
+Lydia Jensen,71,NA,1,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Aedan Mills,62,NA,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,CHF
+Reuben Dawson,60,NA,0,1,1,0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,Respiratory Infection
+Leila Lee,28,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,hypertensive crisis
+Brice Holt,35,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Paloma Ayala,20,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Aylin Walls,28,NA,1,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Madden Mayer,21,NA,0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,1,UTI
+Colt Stanley,21,NA,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,broken bone
+Shayna Weiss,72,NA,0,0,1,0,1,0,1,1,0,1,0,0,1,0,0,1,0,1,High Blood Sugar
+Carolina Santos,66,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Luka Espinoza,43,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Mckenna Lin,52,NA,0,1,0,0,1,0,0,1,1,0,1,0,0,1,1,0,0,0,Respiratory Infection
+Amaris Beltran,24,NA,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,hypertensive crisis
+Jaime Dickerson,11,NA,0,0,0,0,1,0,1,1,0,1,1,0,0,0,1,0,1,1,High Blood Sugar
+Curtis Guerrero,27,NA,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,UTI
+Marlee Hardin,58,NA,1,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,hypertensive crisis
+Kailyn Young,20,NA,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1,0,1,Respiratory Infection
+Gunner Craig,80,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Journey Shaffer,12,NA,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,broken bone
+Colt Molina,78,NA,1,1,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Kylee Russo,43,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Julie Hart,32,NA,0,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Talan Garrison,36,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Deborah Howard,70,NA,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,broken bone
+Leah Gregory,72,NA,1,0,1,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,CHF
+Rihanna Levine,66,NA,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,broken bone
+Bryanna Jenkins,48,NA,1,1,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,hypertensive crisis
+Maxwell Walsh,77,NA,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,hypertensive crisis
+Saige Day,46,NA,0,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Ashlyn Newman,67,NA,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,broken bone
+Anastasia Horton,57,NA,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1,0,0,Respiratory Infection
+Molly Doyle,54,NA,0,1,0,0,0,0,0,1,1,1,0,1,0,1,1,0,0,0,Respiratory Infection
+Mike Mayo,41,NA,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,UTI
+Brendon Stuart,68,NA,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,broken bone
+Jovany Cunningham,72,NA,0,1,0,0,0,0,0,1,1,1,1,0,0,1,1,0,0,0,Respiratory Infection
+Rory Hill,25,NA,0,1,1,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,Respiratory Infection
+Shamar Gilbert,44,NA,0,0,1,0,1,1,1,1,0,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Jermaine Weiss,48,NA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,broken bone
+Carina Lindsey,14,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Zayden Graves,46,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Cristian Key,76,NA,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,broken bone
+Justin Rios,38,NA,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Abbie Hess,78,NA,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,1,0,broken bone
+Siena Bartlett,22,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Tess Serrano,15,NA,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,0,0,1,UTI
+Brielle Pierce,45,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Erik Cobb,68,NA,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,broken bone
+Kayden Stewart,11,NA,0,0,0,0,1,0,1,1,1,1,0,1,0,0,1,0,0,1,High Blood Sugar
+Trey Stafford,31,NA,1,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,UTI
+Jaylee White,54,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Dante Mccullough,71,NA,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,1,UTI
+Ellen Roman,15,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Irvin Delacruz,42,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Sterling Lawrence,30,NA,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,broken bone
+Karen Rivera,54,NA,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,broken bone
+Slade Boyle,45,NA,1,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Alma Rangel,59,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Naomi Cooke,17,NA,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,1,Respiratory Infection
+Cecilia Cline,78,NA,0,0,1,1,1,0,1,1,0,1,0,0,1,0,0,0,0,1,High Blood Sugar
+Branson Maxwell,77,NA,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,0,0,broken bone
+Adalyn Ray,21,NA,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,broken bone
+Jacob Santana,45,NA,0,0,1,0,1,0,1,1,0,1,1,0,0,0,0,1,0,1,High Blood Sugar
+Alex Pacheco,59,NA,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,UTI
+Adalynn Kirby,59,NA,0,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0,1,1,High Blood Sugar
+Jaydin Rasmussen,73,NA,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,1,0,0,broken bone
+Abby Kelly,47,NA,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,UTI
+Deandre Bass,57,NA,0,0,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1,UTI
+Skyler Valdez,49,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Izaiah Gamble,31,NA,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,hypertensive crisis
+Libby Day,72,NA,0,1,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0,0,Respiratory Infection
+Adison Schmidt,52,NA,0,1,0,0,0,0,1,1,1,0,0,0,1,0,1,1,0,0,Respiratory Infection
+Edward Lam,66,NA,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,CHF
+Skylar Rush,61,NA,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,hypertensive crisis
+Rylie Pace,78,NA,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,UTI
+Jayce Zavala,72,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Kieran Green,47,NA,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,hypertensive crisis
+Devon Petty,68,NA,1,0,0,0,0,1,0,0,1,0,0,0,1,0,1,1,0,0,CHF
+Sarahi Crawford,40,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Willow Patton,34,NA,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,1,Respiratory Infection
+Seth Parker,70,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Julius Pearson,36,NA,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,broken bone
+Rihanna Lester,21,NA,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,hypertensive crisis
+Alfred Bruce,70,NA,0,0,0,1,1,0,1,1,0,1,1,0,0,0,1,0,0,1,High Blood Sugar
+Kobe Pineda,77,NA,0,1,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,1,Respiratory Infection
+Antoine York,59,NA,1,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,hypertensive crisis
+Marina Villarreal,34,NA,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,CHF
+Kyla Park,65,NA,1,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1,0,0,CHF
+Sidney Reeves,79,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Ashanti Cain,25,NA,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,broken bone
+Jose Erickson,12,NA,0,1,0,1,1,0,0,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Jaxon Casey,56,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Donovan Rocha,57,NA,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,1,0,0,broken bone
+Moses Hansen,28,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Steven Michael,17,NA,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,broken bone
+Jude Sanders,30,NA,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0,CHF
+Briley Weiss,32,NA,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Eliezer Velez,18,NA,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,broken bone
+Messiah Durham,73,NA,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,1,1,1,High Blood Sugar
+Dillan Riddle,70,NA,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,CHF
+Micah Melendez,56,NA,0,0,0,0,1,0,1,1,0,1,1,0,1,1,0,0,0,1,High Blood Sugar
+Kane Bonilla,67,NA,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,1,UTI
+Landon Cortez,66,NA,1,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1,0,0,CHF
+Melanie White,41,NA,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,1,0,0,broken bone
+Saniya Fisher,24,NA,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,broken bone
+Fatima Page,42,NA,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,hypertensive crisis
+Yuliana Mclaughlin,41,NA,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1,0,1,0,Respiratory Infection
+Essence Vang,32,NA,1,1,0,0,0,0,0,1,1,1,0,0,0,0,1,0,1,0,Respiratory Infection
+Eli Benson,39,NA,1,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Virginia Russo,62,NA,1,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,CHF
+Rowan Bates,75,NA,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,broken bone
+Emma Wang,63,NA,1,1,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,Respiratory Infection
+Reese Hernandez,22,NA,0,1,1,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Brenda Mcguire,67,NA,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,broken bone
+Beckham Riley,58,NA,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,1,1,UTI
+Kaleigh Blackwell,57,NA,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,UTI
+Alonso Lloyd,63,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Christian Poole,39,NA,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,broken bone
+Makenzie Andersen,61,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,UTI
+Lillian Snyder,64,NA,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,1,UTI
+Samara Andersen,38,NA,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,broken bone
+Tania Stephenson,51,NA,1,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,hypertensive crisis
+Tucker Hardy,17,NA,0,1,0,1,1,0,1,1,0,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Sage Jordan,68,NA,0,1,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,Respiratory Infection
+Ethan Fry,19,NA,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,1,UTI
+Kellen Luna,62,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Junior Drake,70,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Beckham Salazar,69,NA,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,UTI
+Jeffrey Bean,20,NA,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1,1,UTI
+Erik Reyes,11,NA,1,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Abril Russell,20,NA,0,1,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0,1,Respiratory Infection
+Jillian Ross,50,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Adelaide Gordon,48,NA,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,CHF
+Maximillian Green,25,NA,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,CHF
+Felicity Friedman,47,NA,0,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0,1,UTI
+Gracie Leon,40,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Phoenix Dunlap,20,NA,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,hypertensive crisis
+Randy Patel,20,NA,1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,0,0,1,High Blood Sugar
+Hezekiah Horton,63,NA,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Sanaa Parker,51,NA,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,CHF
+Skylar Duncan,79,NA,1,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,hypertensive crisis
+Jazmyn Kemp,67,NA,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Heidi Woodard,27,NA,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,CHF
+Sophie Webster,37,NA,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,broken bone
+Khalil Stone,67,NA,0,1,0,0,1,0,1,1,0,1,1,0,0,0,0,0,1,1,High Blood Sugar
+Iris Sheppard,36,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Mina Mann,17,NA,1,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,hypertensive crisis
+Mariana Key,51,NA,0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,1,UTI
+Aleena Barry,39,NA,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,hypertensive crisis
+Curtis Deleon,79,NA,0,0,0,1,1,0,1,1,0,1,1,1,0,0,0,0,0,1,High Blood Sugar
+Kailyn Kelly,25,NA,1,1,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Emanuel Raymond,58,NA,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,0,1,UTI
+Charity Underwood,56,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Landin Huffman,41,NA,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,1,UTI
+Jayvion Keith,70,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Bernard Higgins,37,NA,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Lilliana Koch,22,NA,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,hypertensive crisis
+Jillian Castillo,44,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,1,1,1,High Blood Sugar
+Alena Koch,48,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Dawson Dennis,48,NA,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,broken bone
+Toby Riley,34,NA,1,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,UTI
+Bethany Benjamin,60,NA,0,1,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,1,Respiratory Infection
+Ramiro Vargas,14,NA,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,UTI
+Selina Ibarra,51,NA,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,broken bone
+Nikolai Patterson,15,NA,0,1,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,1,Respiratory Infection
+Chaim Walker,36,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Mercedes Chapman,14,NA,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,CHF
+Thalia Solis,22,NA,0,0,0,0,1,0,1,1,1,1,0,0,1,0,1,0,0,1,High Blood Sugar
+Myles Holmes,41,NA,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,1,UTI
+Blaine Olson,37,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Briley Yang,36,NA,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,1,1,Respiratory Infection
+Carmen Meza,64,NA,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,broken bone
+Ezekiel Bell,15,NA,1,1,0,0,1,0,1,1,0,1,0,0,0,0,1,0,0,1,High Blood Sugar
+Micah Monroe,75,NA,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,broken bone
+Abraham Kirby,51,NA,1,1,0,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Francisco Hebert,62,NA,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,Respiratory Infection
+Tristan Dawson,38,NA,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1,High Blood Sugar
+Jacoby Moyer,42,NA,1,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Ariana Glass,32,NA,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Jacqueline Acosta,75,NA,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0,broken bone
+Justice Hutchinson,12,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Kaitlyn Brady,73,NA,1,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,hypertensive crisis
+Harper Reyes,48,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Carlos Mcdaniel,11,NA,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,broken bone
+Roselyn Ballard,16,NA,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Karli Callahan,50,NA,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,hypertensive crisis
+Rachel Harper,70,NA,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0,1,1,High Blood Sugar
+Davon Roberts,58,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Damian Burke,46,NA,0,1,0,1,0,1,0,1,1,0,0,1,0,0,1,0,0,0,Respiratory Infection
+Shayla Patterson,67,NA,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,1,CHF
+Conrad Weiss,47,NA,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,CHF
+Damion Warner,17,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Janessa Morrow,60,NA,1,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Amari David,62,NA,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,broken bone
+Lillian Beck,13,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,broken bone
+Cristina Cannon,65,NA,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,hypertensive crisis
+Kyson Myers,19,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Jaiden Brewer,65,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Marcel Koch,30,NA,0,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,UTI
+Landyn Beck,65,NA,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Richard Marsh,39,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Izaiah Boone,68,NA,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,broken bone
+Alena Vaughn,71,NA,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,broken bone
+Davis Irwin,74,NA,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,1,UTI
+Marcus Richard,71,NA,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,CHF
+Jarrett Greene,11,NA,1,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,hypertensive crisis
+Ryder Holloway,44,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Raul Munoz,71,NA,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,UTI
+Emmalee Oliver,35,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Daniella Kaufman,42,NA,1,1,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,Respiratory Infection
+Elisabeth Chaney,10,NA,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,broken bone
+Estrella Hansen,11,NA,1,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,hypertensive crisis
+Yamilet Stokes,70,NA,0,0,0,0,1,1,1,1,0,1,1,0,1,0,0,0,0,1,High Blood Sugar
+Malakai Miranda,57,NA,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,UTI
+Kayden Ball,22,NA,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,CHF
+Kylan Bartlett,50,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Wyatt Howe,40,NA,0,1,1,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,Respiratory Infection
+Jayden Webb,68,NA,0,1,0,1,1,0,0,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Camron Waller,10,NA,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,CHF
+Ashleigh Rojas,42,NA,1,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0,0,1,High Blood Sugar
+Lyric Schneider,18,NA,0,1,0,0,0,1,0,1,1,0,0,0,1,0,1,1,0,0,Respiratory Infection
+Spencer Morton,60,NA,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1,broken bone
+Allen Delgado,56,NA,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,1,1,High Blood Sugar
+Kenzie Mason,31,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Karen Donaldson,80,NA,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,broken bone
+Bryson Winters,31,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Cory Villarreal,77,NA,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,broken bone
+Hailee Orr,11,NA,1,0,0,0,1,1,1,1,0,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Madalynn Walton,11,NA,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,1,0,1,High Blood Sugar
+Patrick Berg,80,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Emmanuel Lowe,14,NA,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,broken bone
+Ricky Liu,17,NA,0,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,Respiratory Infection
+Collin Lowery,52,NA,1,0,0,1,0,0,0,0,1,1,1,0,0,0,0,1,0,0,CHF
+Matteo Kelley,73,NA,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,UTI
+Elizabeth Phelps,69,NA,0,1,0,0,0,1,0,1,1,0,0,0,0,1,1,0,1,0,Respiratory Infection
+Valentin Dickson,79,NA,0,1,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Sage Pena,10,NA,1,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,1,UTI
+Stephanie Ali,40,NA,0,0,0,0,1,0,1,0,0,0,0,1,0,1,1,0,0,1,UTI
+Marely Russell,27,NA,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,UTI
+Haiden Serrano,36,NA,0,1,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,0,Respiratory Infection
+Preston Bryan,12,NA,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,hypertensive crisis
+Amanda Nelson,72,NA,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,broken bone
+Braelyn Mccarty,63,NA,0,0,0,0,1,0,1,1,0,1,0,1,1,1,0,0,0,1,High Blood Sugar
+Roselyn Love,61,NA,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,broken bone
+Aliya Lin,59,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Dayanara Strong,76,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Laura Ramsey,11,NA,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,1,0,1,High Blood Sugar
+Esteban Carey,24,NA,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,1,UTI
+Timothy Davidson,74,NA,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,1,UTI
+Giana Lutz,80,NA,0,1,0,0,1,0,1,1,0,1,0,0,0,1,1,0,0,1,High Blood Sugar
+Campbell Vargas,67,NA,0,1,0,1,0,0,0,1,1,0,0,1,0,0,1,0,1,0,Respiratory Infection
+Dillon Spears,34,NA,1,1,0,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,hypertensive crisis
+Kirsten Campos,25,NA,1,0,0,0,1,1,1,1,0,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Nickolas Webb,63,NA,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,Respiratory Infection
+William Macias,68,NA,0,1,0,0,1,0,1,1,0,1,1,1,0,0,0,0,0,1,High Blood Sugar
+Elliott Mata,26,NA,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,1,1,High Blood Sugar
+Cassidy Castro,16,NA,0,1,0,0,1,1,0,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Maribel Pena,50,NA,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,Respiratory Infection
+Dustin Collier,15,NA,0,0,0,1,1,1,1,1,0,1,0,1,0,0,0,0,0,1,High Blood Sugar
+Bronson Yoder,17,NA,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,1,0,broken bone
+Kylan Shepherd,15,NA,1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,0,0,1,High Blood Sugar
+Lilia Cain,70,NA,0,0,0,1,1,0,1,1,0,1,1,1,0,0,0,0,0,1,High Blood Sugar
+Izayah Olson,37,NA,1,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,hypertensive crisis
+Gisselle Bridges,35,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Chana Brady,10,NA,0,1,0,0,0,0,0,1,1,0,1,0,0,1,1,0,1,0,Respiratory Infection
+Benjamin Figueroa,38,NA,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,1,UTI
+Khalil Cummings,45,NA,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,broken bone
+Nickolas Hicks,54,NA,0,1,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Samson Lawrence,16,NA,0,1,0,0,1,0,0,1,1,0,1,0,1,0,1,0,0,0,Respiratory Infection
+Mariah Barry,25,NA,1,1,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Milagros Alvarado,23,NA,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,1,UTI
+Cason Sutton,39,NA,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,0,0,broken bone
+Ronald Gibson,60,NA,0,0,0,1,0,1,0,0,0,0,0,1,0,1,1,0,0,1,UTI
+Macie Cisneros,55,NA,1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Eleanor Leach,57,NA,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,CHF
+Lilian Cardenas,45,NA,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,hypertensive crisis
+Troy Boyer,75,NA,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,UTI
+Janet Christian,22,NA,1,0,0,1,1,0,1,1,0,1,0,0,0,0,1,0,0,1,High Blood Sugar
+Heaven Herrera,35,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Turner Rivas,48,NA,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,1,UTI
+Julius Frazier,68,NA,1,0,0,1,1,0,0,0,1,0,1,0,0,0,0,1,0,0,CHF
+Genevieve Dickerson,39,NA,0,1,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,Respiratory Infection
+Adonis Allison,44,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Helena Garcia,13,NA,0,1,1,0,0,1,0,1,1,0,0,0,1,0,1,0,0,0,Respiratory Infection
+Gaven Terrell,20,NA,0,1,0,1,0,0,0,1,1,0,0,0,1,1,1,0,0,0,Respiratory Infection
+Sage Stafford,77,NA,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,CHF
+Daniel Bradford,35,NA,0,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0,0,1,High Blood Sugar
+Christina Ortiz,43,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,Respiratory Infection
+Geovanni Melton,20,NA,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,CHF
+Giovanna Velasquez,42,NA,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,Respiratory Infection
+Jon Bryant,20,NA,1,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Allie Liu,78,NA,1,1,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,hypertensive crisis
+Giovanna Maxwell,34,NA,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Isabelle Nunez,79,NA,1,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0,CHF
+Dana Russell,42,NA,0,1,1,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,Respiratory Infection
+Mireya Gates,76,NA,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,1,CHF
+Mya Lucas,27,NA,0,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Cruz Reynolds,59,NA,0,0,0,0,1,0,1,1,0,1,0,0,1,0,1,1,0,1,High Blood Sugar
+Desiree Buchanan,35,NA,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,broken bone
+Jasiah Wall,57,NA,0,1,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Charlie Hanna,40,NA,0,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,1,UTI
+Elaine Bond,57,NA,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,broken bone
+Josh Rojas,80,NA,1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Willie Watkins,52,NA,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,1,UTI
+Lukas Hoover,70,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Selena Fernandez,56,NA,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,broken bone
+Jillian Hickman,32,NA,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,broken bone
+Kaelyn Mueller,30,NA,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1,CHF
+Jocelynn Whitaker,23,NA,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,hypertensive crisis
+Kale Navarro,36,NA,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,CHF
+Gauge Berger,78,NA,1,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Yurem Cooley,64,NA,0,1,0,0,1,1,0,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Isabell Carlson,77,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Ryder Baker,14,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Roman Walker,52,NA,0,1,0,0,0,1,0,1,1,0,0,1,1,0,1,0,0,0,Respiratory Infection
+Tomas Dennis,74,NA,0,0,0,1,1,1,1,1,0,1,0,0,1,0,0,0,0,1,High Blood Sugar
+Patience Lindsey,51,NA,0,1,0,0,1,0,1,1,0,1,0,0,0,1,0,1,0,1,High Blood Sugar
+Jean Wright,31,NA,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,broken bone
+August Huffman,76,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Camden Bray,19,NA,0,0,1,0,1,0,1,1,0,1,0,0,0,0,1,1,0,1,High Blood Sugar
+Nathalia Garcia,12,NA,1,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,hypertensive crisis
+Kai Mcdonald,70,NA,0,1,0,1,0,0,0,1,1,0,0,1,1,0,1,0,0,0,Respiratory Infection
+Joyce Suarez,18,NA,1,1,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,Respiratory Infection
+Billy Pearson,62,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Lincoln Compton,43,NA,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,CHF
+Keagan Hicks,16,NA,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,0,0,CHF
+Kimberly Shepard,36,NA,0,1,0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Eileen Madden,29,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Rodney Huerta,66,NA,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,broken bone
+Iyana Scott,19,NA,1,0,0,0,1,0,1,1,0,1,0,0,1,0,1,0,0,1,High Blood Sugar
+Eleanor Vega,49,NA,1,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,hypertensive crisis
+Katrina Morris,44,NA,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,CHF
+Jamie Branch,52,NA,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,CHF
+Adriel Wade,34,NA,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,hypertensive crisis
+Landon Luna,56,NA,1,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Evelin Bradshaw,68,NA,0,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Alicia Keller,51,NA,1,0,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,CHF
+Waylon Delgado,13,NA,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,1,0,0,Respiratory Infection
+Mckenna Mendez,77,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Alice Jordan,64,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Deandre Ruiz,76,NA,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,1,1,1,High Blood Sugar
+Emilia Atkinson,63,NA,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,1,UTI
+Justus Franklin,31,NA,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,broken bone
+Asa Hubbard,56,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,CHF
+Mariana Huffman,12,NA,1,0,0,0,0,1,0,1,1,0,1,0,0,0,0,1,0,0,CHF
+Krista Knapp,71,NA,0,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,1,High Blood Sugar
+Sylvia Duarte,74,NA,1,1,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,CHF
+Carlo Espinoza,80,NA,0,0,1,0,1,0,1,1,1,1,0,0,1,0,0,0,0,1,High Blood Sugar
+Beckett Koch,58,NA,0,0,0,0,1,0,1,1,0,1,0,1,1,0,1,0,0,1,High Blood Sugar
+Natasha Flores,18,NA,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,0,broken bone
+Kierra Romero,30,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Giancarlo Thomas,24,NA,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,CHF
+Kash Soto,17,NA,0,1,0,0,1,1,1,1,0,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Jean Buchanan,69,NA,1,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Pedro Mckee,47,NA,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,hypertensive crisis
+Lamar Franklin,64,NA,1,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,1,Respiratory Infection
+Ignacio Cisneros,52,NA,0,1,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,1,Respiratory Infection
+Kamryn Huynh,63,NA,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0,1,1,High Blood Sugar
+Jameson Ewing,18,NA,0,0,0,0,1,0,1,1,0,1,1,0,1,1,0,0,0,1,High Blood Sugar
+Lila Rojas,57,NA,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,UTI
+Adelyn Bray,12,NA,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,0,Respiratory Infection
+Jacey Lopez,73,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Layla Hernandez,72,NA,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,1,UTI
+Paul Chan,14,NA,0,0,0,1,1,0,1,1,0,1,1,0,1,0,0,0,0,1,High Blood Sugar
+Jasmin Moyer,51,NA,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0,CHF
+Tyler Hutchinson,46,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Ryan Bailey,43,NA,0,1,0,1,0,0,0,1,1,0,0,0,0,0,1,1,0,1,Respiratory Infection
+Guadalupe James,65,NA,0,1,0,0,1,1,1,1,0,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Kinley Wall,67,NA,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,1,0,Respiratory Infection
+Bailee Chandler,23,NA,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,broken bone
+Santiago Flores,37,NA,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Mekhi Sims,41,NA,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Benjamin Nixon,74,NA,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,1,UTI
+Kadin Burton,61,NA,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,CHF
+Emmett Rodgers,65,NA,1,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Joanna Heath,37,NA,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,CHF
+Elena Benjamin,16,NA,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,1,UTI
+Weston Hartman,74,NA,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1,0,0,1,UTI
+Jared Dougherty,55,NA,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,1,UTI
+Jaslene Bartlett,24,NA,0,1,0,0,1,0,1,1,0,1,0,0,1,0,0,0,1,1,High Blood Sugar
+Lucas Poole,76,NA,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,1,UTI
+Jada Wu,50,NA,0,1,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,1,Respiratory Infection
+Mina Doyle,29,NA,1,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Madelyn Mullins,55,NA,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Emilie Vazquez,32,NA,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,broken bone
+Rogelio Cameron,23,NA,0,0,0,1,1,0,1,1,0,1,0,0,0,1,0,1,0,1,High Blood Sugar
+Araceli Payne,73,NA,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,broken bone
+Magdalena Meadows,61,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,hypertensive crisis
+Corbin Bishop,30,NA,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,hypertensive crisis
+Clay Hawkins,10,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,CHF
+Nina Oconnell,36,NA,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,1,UTI
+Chase Nguyen,70,NA,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0,1,UTI
+Serena White,53,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Leanna Griffin,19,NA,0,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0,1,UTI
+Craig Farmer,70,NA,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1,1,1,0,Respiratory Infection
+Lawson Ray,55,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Jeffrey Perez,55,NA,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,hypertensive crisis
+Karly Lawson,36,NA,1,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,CHF
+Shaniya Keith,48,NA,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,broken bone
+Gabriella Baird,46,NA,1,0,1,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,CHF
+Oscar Burns,72,NA,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,1,CHF
+Terry Roberts,13,NA,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Nathanael Schaefer,36,NA,1,0,0,0,1,0,1,1,0,1,0,0,1,0,1,0,0,1,High Blood Sugar
+Cade Perez,49,NA,1,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,hypertensive crisis
+Katelynn Barajas,50,NA,1,0,0,0,1,0,1,1,0,1,0,1,0,0,0,1,0,1,High Blood Sugar
+Mauricio Grimes,61,NA,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,1,UTI
+Amani Blankenship,21,NA,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,Respiratory Infection
+Brooklynn Archer,48,NA,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,CHF
+Nathalie Tucker,26,NA,0,1,1,0,0,0,0,1,1,0,0,1,0,1,1,0,0,0,Respiratory Infection
+Dalia Hebert,76,NA,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,1,UTI
+Dillan Garner,37,NA,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,UTI
+Zariah Mercer,55,NA,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,broken bone
+Enrique Wang,72,NA,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,broken bone
+Joey Haas,22,NA,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,1,0,CHF
+Reyna Lowery,48,NA,0,0,0,0,1,0,1,1,1,1,0,0,1,0,1,0,0,1,High Blood Sugar
+Lewis Duke,75,NA,1,1,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,CHF
+Sam Lawrence,12,NA,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1,0,1,Respiratory Infection
+Guillermo Kramer,16,NA,0,1,0,0,0,0,0,1,1,0,1,1,0,0,1,0,1,0,Respiratory Infection
+Sandra Valdez,34,NA,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,hypertensive crisis
+Lillie Gaines,13,NA,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,broken bone
+Lilly Sexton,26,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Jerry Daniels,45,NA,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,CHF
+Leonardo Acevedo,44,NA,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,hypertensive crisis
+Tristan Powell,57,NA,1,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Kolton Richmond,43,NA,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,CHF
+Thomas Nunez,49,NA,0,1,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,1,High Blood Sugar
+Andre Murray,58,NA,1,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,hypertensive crisis
+Sabrina Lee,48,NA,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,broken bone
+Frankie Mcpherson,74,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Lana Macdonald,10,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Quinn Pugh,54,NA,1,1,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,hypertensive crisis
+Dayton Williamson,46,NA,0,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,UTI
+Tyrone Lee,67,NA,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,1,broken bone
+Jaslene Mckay,53,NA,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,1,High Blood Sugar
+Ellie Juarez,67,NA,1,1,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,Respiratory Infection
+Julianna Nelson,79,NA,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,Respiratory Infection
+Emiliano Morgan,28,NA,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,1,0,CHF
+Armando Schultz,50,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,1,0,1,0,1,High Blood Sugar
+Conner Ball,80,NA,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,CHF
+Felix Fleming,48,NA,0,1,0,0,1,0,0,1,1,0,1,0,0,1,1,0,0,0,Respiratory Infection
+Bradyn Hodges,55,NA,0,1,0,0,0,0,1,1,1,1,1,0,0,0,1,0,0,0,Respiratory Infection
+Shaniya Sullivan,65,NA,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,Respiratory Infection
+Lindsey Bolton,14,NA,0,1,0,0,0,1,0,1,1,0,0,0,1,0,1,0,1,0,Respiratory Infection
+Gavyn Cooley,76,NA,1,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,hypertensive crisis
+Brogan Bender,40,NA,1,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1,UTI
+Kennedy Rocha,42,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Gillian Benjamin,19,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Iris Vazquez,20,NA,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,broken bone
+Aliya Castaneda,70,NA,0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,1,UTI
+Tiara Fox,64,NA,1,1,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,1,Respiratory Infection
+Remington Montes,79,NA,1,1,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,CHF
+Messiah Rodriguez,43,NA,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,1,0,CHF
+Esperanza Ponce,58,NA,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,broken bone
+Kiley English,29,NA,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,1,0,0,broken bone
+Natalia Mcgrath,25,NA,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,CHF
+Cooper Carroll,73,NA,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,1,0,CHF
+Jordin Coffey,33,NA,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,CHF
+Charlie Dunlap,30,NA,1,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,hypertensive crisis
+Eva Macdonald,58,NA,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Izaiah Bennett,51,NA,0,0,1,1,1,0,1,1,0,1,0,0,1,0,0,0,0,1,High Blood Sugar
+Lorelai Burnett,32,NA,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1,UTI
+Andre Velasquez,55,NA,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,1,UTI
+Tommy Flowers,69,NA,0,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Shyla Curtis,74,NA,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,CHF
+Micaela Price,68,NA,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,broken bone
+Eliza Johnson,29,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Jimena Summers,14,NA,0,1,0,1,0,0,0,1,1,0,0,0,0,0,1,1,0,1,Respiratory Infection
+Diya Rios,14,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Brennan Booth,29,NA,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,1,1,UTI
+Jovanni Winters,72,NA,0,0,0,0,1,0,1,1,0,1,1,0,1,0,0,1,0,1,High Blood Sugar
+Hailee Tapia,15,NA,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,CHF
+Hayden Bradley,57,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Izabella Kemp,13,NA,0,0,1,0,1,0,1,1,0,1,1,0,1,0,0,0,0,1,High Blood Sugar
+Arnav Harris,42,NA,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,UTI
+Misael Mcconnell,78,NA,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,CHF
+Mckinley Barry,57,NA,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,CHF
+Melvin Chen,43,NA,1,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,CHF
+Coby Merritt,15,NA,1,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,hypertensive crisis
+Nathalia Lang,66,NA,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,1,UTI
+Amya Archer,49,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Lexi Livingston,67,NA,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,hypertensive crisis
+Sanai Clayton,76,NA,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,1,UTI
+Johnathan Rowe,62,NA,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,CHF
+Keegan Walton,49,NA,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,broken bone
+Luciana Chambers,41,NA,0,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,UTI
+Isabella Woods,39,NA,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,0,0,0,Respiratory Infection
+Diego Bender,31,NA,1,1,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,Respiratory Infection
+Josie Miranda,37,NA,0,1,0,0,1,1,0,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Keon Marks,72,NA,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,UTI
+Jeffery Blake,38,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Van Harding,78,NA,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,hypertensive crisis
+Mike Hansen,23,NA,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,Respiratory Infection
+Cali Foley,47,NA,0,0,1,0,1,0,0,0,0,1,0,0,0,1,1,0,0,1,UTI
+Edgar Rogers,22,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Silas Mcbride,25,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Laurel Guerrero,47,NA,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,1,0,Respiratory Infection
+Gideon Richardson,19,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Isaiah Ball,41,NA,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,CHF
+Rylan Kirby,32,NA,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,CHF
+Alfred Hinton,67,NA,0,1,1,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Hugh Roberson,69,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Annabelle Orr,46,NA,0,0,0,1,0,1,0,1,0,0,0,0,0,1,1,0,0,1,UTI
+Denisse Moon,31,NA,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,CHF
+Breanna Miranda,33,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Jorge Bowers,66,NA,0,1,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,1,High Blood Sugar
+Zaire Koch,35,NA,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,UTI
+Leonel Hines,36,NA,0,1,0,0,1,0,0,1,1,1,1,0,0,0,1,0,0,0,Respiratory Infection
+Adonis Giles,24,NA,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,CHF
+Fisher Combs,77,NA,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,broken bone
+Joyce Trujillo,56,NA,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,UTI
+Pranav Mann,32,NA,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,broken bone
+Abdullah Harding,53,NA,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,CHF
+Leonel Mcknight,67,NA,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,CHF
+Journey Khan,56,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Janiah Pruitt,47,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Dixie Macdonald,37,NA,1,0,0,1,1,0,1,1,0,1,0,0,1,0,0,0,0,1,High Blood Sugar
+Kayleigh Colon,56,NA,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1,0,1,Respiratory Infection
+Tyshawn Cross,75,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,CHF
+Natasha Meyer,38,NA,1,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,CHF
+Walter Foster,56,NA,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,1,0,0,CHF
+Kyson Hardy,18,NA,1,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,CHF
+Jaden Wang,77,NA,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,broken bone
+Leland Lawrence,68,NA,1,0,0,0,0,0,0,0,1,0,1,1,0,0,1,1,0,0,CHF
+Greta Mata,74,NA,0,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,UTI
+Jakob Gibbs,11,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Dalia Mathews,27,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Irvin Carson,39,NA,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,CHF
+Tomas Stevenson,51,NA,0,0,1,0,1,0,0,0,0,0,1,0,0,1,1,0,0,1,UTI
+Blaze Whitney,20,NA,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,1,UTI
+Charlee Ellis,43,NA,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,broken bone
+Brynn Newton,61,NA,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,1,UTI
+Kamden Holder,66,NA,0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,1,UTI
+Eliana Wiley,60,NA,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,1,UTI
+Marshall Woodward,59,NA,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,CHF
+Hector Orozco,20,NA,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,broken bone
+Jazmin Dunn,67,NA,0,1,0,1,1,0,0,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Ramiro Mcdowell,28,NA,1,1,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,hypertensive crisis
+Phoenix Banks,68,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Salvador Huang,15,NA,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,broken bone
+Bella Glenn,52,NA,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,1,0,0,broken bone
+Anika Stanton,58,NA,0,1,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,1,High Blood Sugar
+Zoey Bright,49,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Kelsey Whitney,50,NA,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,hypertensive crisis
+Jalen Stone,74,NA,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,CHF
+Regina Howard,69,NA,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,1,1,UTI
+Kole Ramsey,37,NA,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,UTI
+Zayne Schmidt,63,NA,0,1,0,0,1,1,0,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Logan Vaughan,42,NA,1,1,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,Respiratory Infection
+Konner Shaffer,13,NA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,broken bone
+Carsen Kim,45,NA,0,0,0,1,1,0,1,1,0,1,0,0,0,1,0,1,0,1,High Blood Sugar
+Genevieve Dyer,64,NA,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,hypertensive crisis
+Lorelai Fletcher,59,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Nasir Fleming,67,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Hanna Simmons,53,NA,1,1,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,0,Respiratory Infection
+Dayami Pennington,42,NA,0,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Zane Gross,64,NA,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Eva Hughes,35,NA,0,1,1,0,0,0,0,1,1,1,0,0,0,1,1,0,0,0,Respiratory Infection
+Bradley Fuentes,26,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Cora Mullen,41,NA,0,0,0,0,1,1,1,1,0,1,1,0,0,0,1,0,0,1,High Blood Sugar
+Jakayla Lynn,72,NA,0,1,0,0,0,0,1,1,1,0,0,1,0,0,1,1,0,0,Respiratory Infection
+Nyla Mcguire,44,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Janiyah Conley,37,NA,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,1,0,1,High Blood Sugar
+Anabelle Logan,66,NA,0,1,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Benjamin Foley,17,NA,0,1,0,1,0,0,0,1,1,0,0,1,0,1,1,0,0,0,Respiratory Infection
+Maritza Benton,68,NA,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,broken bone
+Nash Duffy,34,NA,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,broken bone
+Angie Maxwell,10,NA,1,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,hypertensive crisis
+Kate Gillespie,26,NA,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,CHF
+Riley Mathews,34,NA,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,hypertensive crisis
+Lorena Ponce,21,NA,0,1,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,1,Respiratory Infection
+Jasper Chapman,58,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Quinten Mckee,18,NA,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,broken bone
+Tiana Richard,62,NA,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,1,UTI
+Keely Moody,23,NA,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,UTI
+Alicia Elliott,65,NA,0,1,0,1,0,0,0,1,1,0,1,0,0,1,1,0,0,0,Respiratory Infection
+Bryan Richard,27,NA,1,0,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Kyleigh Mahoney,38,NA,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,CHF
+Rigoberto Buchanan,59,NA,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Micah Faulkner,65,NA,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0,0,CHF
+Marquise Dixon,15,NA,0,1,0,0,1,0,1,1,1,1,0,1,0,0,0,0,0,1,High Blood Sugar
+Zachariah Nguyen,19,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Pamela Pacheco,36,NA,0,1,1,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Stacy Sherman,29,NA,0,0,0,0,1,1,0,0,0,1,0,0,0,1,1,0,0,1,UTI
+Devyn Castillo,10,NA,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,hypertensive crisis
+Zachariah Serrano,23,NA,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,CHF
+Celeste Mann,35,NA,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,UTI
+Ryann Holder,59,NA,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,UTI
+Ernest Mckee,41,NA,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Jacob Lopez,70,NA,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1,broken bone
+Madilynn Fields,30,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Keon Hamilton,17,NA,0,1,1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,Respiratory Infection
+Ace Flowers,52,NA,0,1,1,0,1,0,1,1,0,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Jerome Ayers,30,NA,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,Respiratory Infection
+Aydan Glover,79,NA,0,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,1,UTI
+Isaiah Curtis,67,NA,0,0,0,0,1,0,1,1,0,1,0,1,1,1,0,0,0,1,High Blood Sugar
+Arianna Calhoun,30,NA,0,1,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,1,Respiratory Infection
+Colten Serrano,13,NA,0,0,1,0,1,0,1,1,0,1,0,1,0,0,0,1,0,1,High Blood Sugar
+Zoe Thompson,16,NA,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,CHF
+Virginia Oneal,35,NA,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,UTI
+Abby Watkins,57,NA,1,0,0,0,0,0,1,0,1,0,1,0,0,1,0,1,0,0,CHF
+Sawyer Matthews,38,NA,1,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,hypertensive crisis
+Alayna Cantu,59,NA,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,UTI
+Cruz Dillon,13,NA,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0,broken bone
+Emerson Park,34,NA,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,1,0,CHF
+David Graham,20,NA,0,1,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,UTI
+Maeve Sanford,69,NA,1,1,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,Respiratory Infection
+Kenny Young,40,NA,0,1,1,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,Respiratory Infection
+Mireya Carroll,16,NA,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,hypertensive crisis
+Noemi Hines,15,NA,1,1,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Crystal Werner,54,NA,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,broken bone
+Paisley Preston,42,NA,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,0,0,broken bone
+Marisa Tucker,76,NA,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,hypertensive crisis
+Harper Shepherd,22,NA,0,0,0,0,1,1,1,1,0,1,0,1,0,1,0,0,0,1,High Blood Sugar
+Erin Chang,48,NA,0,1,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,Respiratory Infection
+Rene Nguyen,23,NA,0,0,0,0,1,1,1,1,0,1,1,0,0,0,0,1,0,1,High Blood Sugar
+Thaddeus Fowler,71,NA,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,High Blood Sugar
+Rolando Love,78,NA,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,hypertensive crisis
+Lorena Logan,46,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Paola Beltran,26,NA,1,1,0,0,0,1,0,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Noelle Estes,67,NA,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,CHF
+Valery Suarez,59,NA,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,CHF
+Trevon Horne,22,NA,0,1,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,1,Respiratory Infection
+Bridger Wise,73,NA,1,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,hypertensive crisis
+Claudia Bradley,24,NA,0,1,0,1,1,0,0,1,1,0,0,0,1,0,1,0,0,0,Respiratory Infection
+Brenda Strong,20,NA,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,CHF
+Megan Stewart,70,NA,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,hypertensive crisis
+Marisol David,26,NA,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,broken bone
+Tianna Giles,49,NA,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Aaliyah Oconnor,55,NA,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,CHF
+Karly Wiley,67,NA,0,0,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,1,UTI
+Marely Campos,61,NA,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,UTI
+Marissa Callahan,29,NA,1,0,0,0,1,0,1,1,0,1,0,0,0,0,1,1,0,1,High Blood Sugar
+Gabriela Key,10,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Nasir Sloan,47,NA,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,CHF
+Luciano Faulkner,62,NA,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,CHF
+Leila Rollins,41,NA,0,1,1,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,Respiratory Infection
+Karla Coffey,30,NA,1,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,hypertensive crisis
+Max Frey,49,NA,0,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0,0,Respiratory Infection
+Naima Freeman,65,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Zack Zhang,78,NA,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,broken bone
+Markus Jimenez,59,NA,0,1,0,0,0,0,0,1,1,0,0,0,1,1,1,0,1,0,Respiratory Infection
+Hunter Paul,40,NA,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,CHF
+Jaycee Suarez,52,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,CHF
+Cannon Myers,52,NA,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,CHF
+Yaritza Chen,18,NA,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,hypertensive crisis
+Kaya Carson,29,NA,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,1,High Blood Sugar
+Miley Guerra,50,NA,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,1,UTI
+Rose Bender,48,NA,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,broken bone
+Mohammed Cooke,14,NA,1,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,hypertensive crisis
+Elliot Hendrix,35,NA,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,UTI
+Pamela Gomez,65,NA,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,hypertensive crisis
+Cassandra Fletcher,18,NA,0,1,0,1,0,0,0,1,1,0,0,0,0,0,1,0,1,1,Respiratory Infection
+Misael Dennis,27,NA,0,1,0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,0,Respiratory Infection
+Summer Davis,55,NA,0,0,0,1,1,0,1,1,0,1,0,0,1,1,0,0,0,1,High Blood Sugar
+Diego Drake,56,NA,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,hypertensive crisis
+Monserrat Rivera,33,NA,0,1,0,1,0,0,0,1,1,0,0,1,0,1,1,0,0,0,Respiratory Infection
+Sierra Wall,60,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Arielle Delacruz,27,NA,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,broken bone
+Leroy Anderson,24,NA,1,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,Respiratory Infection
+Whitney Whitaker,50,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Campbell Harrington,51,NA,1,1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Violet Barnes,74,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,CHF
+Azaria Acosta,45,NA,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,hypertensive crisis
+Niko Price,61,NA,0,1,0,0,1,0,0,1,1,0,1,0,0,0,1,0,0,1,Respiratory Infection
+Duncan Holloway,49,NA,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,1,0,0,broken bone
+Carmen Riggs,57,NA,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,UTI
+Izabella Zamora,31,NA,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,CHF
+Lara Coffey,15,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Abbigail Day,28,NA,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,UTI
+Miracle Bennett,37,NA,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,CHF
+Lilah Wallace,59,NA,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,1,CHF
+Giovanny Browning,66,NA,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,CHF
+Janelle Campos,32,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Mario Pitts,41,NA,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,0,0,CHF
+Leonel Fletcher,32,NA,1,1,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,hypertensive crisis
+Avah Park,64,NA,0,1,0,0,0,0,0,1,1,1,0,1,0,0,1,0,0,1,Respiratory Infection
+Cheyanne Harrison,53,NA,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,hypertensive crisis
+Jaylin Bridges,44,NA,1,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,Respiratory Infection
+Jewel Villa,25,NA,0,0,0,0,0,0,0,1,0,1,1,0,0,1,1,0,0,1,UTI
+Grayson Moss,39,NA,1,0,0,0,1,0,1,1,0,1,1,0,0,0,0,1,0,1,High Blood Sugar
+Hayley Thornton,35,NA,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,CHF
+Katelyn Cook,69,NA,1,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,1,UTI
+Samantha Wu,22,NA,0,1,0,1,1,0,1,1,0,1,0,0,0,0,1,0,0,1,High Blood Sugar
+Gaige Martinez,12,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Addison Greene,34,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Nevaeh Foley,30,NA,0,0,0,0,1,0,1,1,0,1,1,0,0,0,1,0,1,1,High Blood Sugar
+Yuliana Frank,68,NA,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Ashanti Boone,48,NA,1,1,0,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,Respiratory Infection
+Tanner Carroll,41,NA,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0,1,UTI
+Roderick Bishop,75,NA,0,0,0,1,1,0,1,1,0,1,0,0,1,1,0,0,0,1,High Blood Sugar
+Chaya Hardy,58,NA,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,hypertensive crisis
+Eric Erickson,64,NA,1,1,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,hypertensive crisis
+Kaleigh Ali,53,NA,0,0,0,0,1,1,1,1,0,1,0,1,0,1,0,0,0,1,High Blood Sugar
+Skylar Kline,65,NA,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,High Blood Sugar
+Bernard Stanley,77,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Kristopher Camacho,45,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Giovani Stephenson,77,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,hypertensive crisis
+Kristian Bradshaw,55,NA,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,broken bone
+Koen Baxter,29,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Danna Roy,67,NA,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,0,Respiratory Infection
+Lainey Mcdowell,52,NA,0,0,0,1,1,0,1,1,0,1,0,1,0,0,1,0,0,1,High Blood Sugar
+Isabelle Bartlett,16,NA,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Jerry Barton,36,NA,0,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0,1,1,High Blood Sugar
+Heaven Mayer,66,NA,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,1,UTI
+Harrison Howe,42,NA,0,0,0,1,1,1,1,1,0,1,0,0,0,1,0,0,0,1,High Blood Sugar
+Theodore Holland,25,NA,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,hypertensive crisis
+Arnav Silva,37,NA,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,CHF
+Mackenzie Wu,38,NA,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,High Blood Sugar
+Kole Richardson,62,NA,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,broken bone
+Mikayla Joyce,52,NA,0,1,0,0,0,0,0,1,1,0,0,1,1,0,1,0,1,0,Respiratory Infection
+Kyra Wang,78,NA,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,UTI
+Carina Pacheco,62,NA,0,1,1,0,0,0,0,1,1,0,0,1,0,1,1,0,0,0,Respiratory Infection
+Joanna Boyle,16,NA,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,1,0,0,broken bone
+Eric Hughes,16,NA,0,1,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,Respiratory Infection
+Gregory Carroll,20,NA,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,broken bone
+Xander Martin,57,NA,1,1,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,hypertensive crisis
+Jenna Sherman,34,NA,0,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,1,1,High Blood Sugar
+Amanda Weeks,24,NA,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,CHF
+Sloane Davies,12,NA,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,CHF
+Briana Yu,20,NA,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,CHF
+Jamarion Paul,78,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Keyon Mercado,59,NA,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1,0,1,UTI
+Todd Mckay,34,NA,1,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,hypertensive crisis
+Jamari Morrison,58,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Jolie Bowers,28,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Khalil Hicks,34,NA,1,1,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,Respiratory Infection
+Megan Richmond,41,NA,1,1,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,Respiratory Infection
+Alayna Mcbride,54,NA,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,broken bone
+Craig Whitehead,38,NA,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,UTI
+Roderick Ryan,29,NA,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,Respiratory Infection
+Ryann Baxter,69,NA,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,hypertensive crisis
+Andreas Hawkins,38,NA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,gastrointestinal virus
+Alanna Rubio,46,NA,0,1,0,1,0,0,0,1,1,0,0,1,0,0,1,1,0,0,Respiratory Infection
+Evelin Palmer,20,NA,1,0,0,0,1,0,1,1,0,1,1,1,0,0,0,0,0,1,High Blood Sugar

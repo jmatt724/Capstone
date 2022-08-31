@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>710</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>650</width>
+    <height>800</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>16777215</width>
+    <height>16777215</height>
+   </size>
+  </property>
+  <property name="font">
+   <font/>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="toolTipDuration">
+   <number>-1</number>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QWidget" name="gridLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>0</y>
+     <width>641</width>
+     <height>671</height>
+    </rect>
+   </property>
+   <layout class="QGridLayout" name="gridLayout">
+    <property name="sizeConstraint">
+     <enum>QLayout::SetFixedSize</enum>
+    </property>
+    <property name="horizontalSpacing">
+     <number>0</number>
+    </property>
+    <item row="4" column="0">
+     <widget class="QLabel" name="label_4">
+      <property name="text">
+       <string>Time of Entry</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="2">
+     <widget class="QCheckBox" name="chestpain">
+      <property name="text">
+       <string>Chest Pain</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="1">
+     <widget class="QLineEdit" name="enterName">
+      <property name="styleSheet">
+       <string notr="true">background-color:rgb(255, 255, 255)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="10" column="2">
+     <widget class="QCheckBox" name="cough">
+      <property name="text">
+       <string>Cough</string>
+      </property>
+     </widget>
+    </item>
+    <item row="7" column="2">
+     <widget class="QCheckBox" name="adbominal">
+      <property name="text">
+       <string>Adbominal Pain</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="0">
+     <widget class="QLabel" name="label_3">
+      <property name="text">
+       <string>Age</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="1" rowspan="17">
+     <widget class="QPlainTextEdit" name="notes">
+      <property name="styleSheet">
+       <string notr="true"> background-color: rgb(255, 255, 255)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="15" column="2">
+     <widget class="QCheckBox" name="mentalStatus">
+      <property name="text">
+       <string>Change in Mental Status</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="0">
+     <widget class="QLabel" name="label_6">
+      <property name="text">
+       <string>Notes</string>
+      </property>
+     </widget>
+    </item>
+    <item row="13" column="2">
+     <widget class="QCheckBox" name="diarrhea">
+      <property name="text">
+       <string>Diarrhea</string>
+      </property>
+     </widget>
+    </item>
+    <item row="11" column="2">
+     <widget class="QCheckBox" name="weakness">
+      <property name="text">
+       <string>Weakness</string>
+      </property>
+     </widget>
+    </item>
+    <item row="18" column="2">
+     <widget class="QCheckBox" name="pain">
+      <property name="text">
+       <string>Pain</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="1">
+     <widget class="QSpinBox" name="Age">
+      <property name="styleSheet">
+       <string notr="true"> background-color: rgb(255, 255, 255)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="2">
+     <widget class="QCheckBox" name="fall">
+      <property name="text">
+       <string>Fall</string>
+      </property>
+     </widget>
+    </item>
+    <item row="8" column="2">
+     <widget class="QCheckBox" name="headache">
+      <property name="text">
+       <string>Headache</string>
+      </property>
+     </widget>
+    </item>
+    <item row="9" column="2">
+     <widget class="QCheckBox" name="dizziness">
+      <property name="text">
+       <string>Dizziness</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="2">
+     <widget class="QCheckBox" name="breath">
+      <property name="text">
+       <string>Shortness of breath</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="0">
+     <widget class="QLabel" name="label_2">
+      <property name="text">
+       <string>Name</string>
+      </property>
+     </widget>
+    </item>
+    <item row="19" column="2">
+     <widget class="QCheckBox" name="frequentUrination">
+      <property name="text">
+       <string>Frequent Urination</string>
+      </property>
+     </widget>
+    </item>
+    <item row="6" column="2">
+     <widget class="QCheckBox" name="nausea">
+      <property name="text">
+       <string>Nausea/Vomiting</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="1">
+     <widget class="QTimeEdit" name="timeOfEntry">
+      <property name="styleSheet">
+       <string notr="true"> background-color: rgb(255, 255, 255)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="2">
+     <widget class="QCheckBox" name="trauma">
+      <property name="text">
+       <string>Trauma</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="2">
+     <widget class="QCheckBox" name="fever">
+      <property name="text">
+       <string>Fever</string>
+      </property>
+     </widget>
+    </item>
+    <item row="16" column="2">
+     <widget class="QCheckBox" name="tachypnea">
+      <property name="text">
+       <string>Tachypnea</string>
+      </property>
+     </widget>
+    </item>
+    <item row="14" column="2">
+     <widget class="QCheckBox" name="painUrination">
+      <property name="text">
+       <string>Painful Urination</string>
+      </property>
+     </widget>
+    </item>
+    <item row="17" column="2">
+     <widget class="QCheckBox" name="hypertension">
+      <property name="text">
+       <string>Hypertension</string>
+      </property>
+     </widget>
+    </item>
+    <item row="12" column="2">
+     <widget class="QCheckBox" name="syncope">
+      <property name="text">
+       <string>Syncope</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="1">
+     <widget class="QPushButton" name="submit">
+      <property name="text">
+       <string>Submit</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="1">
+     <widget class="QLabel" name="title">
+      <property name="font">
+       <font>
+        <pointsize>25</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>New Patient Entry</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

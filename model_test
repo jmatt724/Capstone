@@ -1,0 +1,16 @@
+from operator import itemgetter
+import pandas
+import pickle
+
+df = pandas.read_csv(r'model_check.csv')
+
+df.drop(["name", "age", "arriveTime"], axis=1, inplace=True)
+
+list = df.values.tolist()
+
+model = pickle.load(open('new_RRTS_model.sav', 'rb'))
+
+results = model.predict(list)
+
+for item in results:
+    print(item)
